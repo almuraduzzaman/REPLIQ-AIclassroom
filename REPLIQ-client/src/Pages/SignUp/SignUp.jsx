@@ -126,18 +126,18 @@ const SignUp = () => {
                     <div>
                         <label className="text-sm font-medium leading-none text-gray-800">Name</label>
                         <input {...register("name", { required: true })} type="text" className="bg-gray-200 border rounded focus:outline-none text-xs font-medium leading-none text-gray-800 py-3 w-full pl-3 mt-2" />
-                        {errors.name?.type === 'required' && <p>Name is required</p>}
+                        {errors.name?.type === 'required' && <p className="text-xs text-red-300">Name is required</p>}
                     </div>
                     <div className="mt-6 w-full">
                         <label className="text-sm font-medium leading-none text-gray-800">Photo URL</label>
                         <input {...register("photoURL", { required: true })} type="url" className="bg-gray-200 border rounded focus:outline-none text-xs font-medium leading-none text-gray-800 py-3 w-full pl-3 mt-2" />
-                        {errors.photoURL?.type === 'required' && <p>Photo URL is required</p>}
+                        {errors.photoURL?.type === 'required' && <p className="text-xs text-red-300">Photo URL is required</p>}
                     </div>
 
                     <div className="mt-6 w-full">
                         <label className="text-sm font-medium leading-none text-gray-800">Email</label>
                         <input {...register("email", { required: true })} type="email" className="bg-gray-200 border rounded focus:outline-none text-xs font-medium leading-none text-gray-800 py-3 w-full pl-3 mt-2" />
-                        {errors.email?.type === 'required' && <p>Email is required</p>}
+                        {errors.email?.type === 'required' && <p className="text-xs text-red-300">Email is required</p>}
                     </div>
 
                     <div className="mt-6 w-full">
@@ -160,7 +160,7 @@ const SignUp = () => {
                                 />
                             )}
                         />
-                        {errors.phone?.type === 'required' && <p>Phone is required</p>}
+                        {errors.phone?.type === 'required' && <p className="text-xs text-red-300">Phone is required</p>}
                     </div>
 
                     <div className="mt-6 w-full">
@@ -185,10 +185,10 @@ const SignUp = () => {
                                 </div>
                             </div>
                         </div>
-                        {errors.password?.type === 'required' && <p>Password is required</p>}
-                        {errors.password?.type === 'minLength' && <p>Password must be 6 characters</p>}
-                        {errors.password?.type === 'maxLength' && <p>Password less than 10 characters</p>}
-                        {errors.password?.type === 'pattern' && <p>Password must have one Uppercase, one Lowercase, one Number and one Special Character</p>}
+                        {errors.password?.type === 'required' && <p className="text-xs text-red-300">Password is required</p>}
+                        {errors.password?.type === 'minLength' && <p className="text-xs text-red-300">Password must be 6 characters</p>}
+                        {errors.password?.type === 'maxLength' && <p className="text-xs text-red-300">Password less than 10 characters</p>}
+                        {errors.password?.type === 'pattern' && <p className="text-xs text-red-300">Password must have one Uppercase, one Lowercase, one Number and one Special Character</p>}
                     </div>
                     <div className="mt-6  w-full">
                         <label className="text-sm font-medium leading-none text-gray-800">Confirm Password</label>
@@ -203,7 +203,7 @@ const SignUp = () => {
                                 type="password"
                                 className="bg-gray-200 border rounded focus:outline-none text-xs font-medium leading-none text-gray-800 py-3 w-full pl-3 mt-2"
                             />
-                            {errors.confirmPassword && (<p>{errors.confirmPassword.message}</p>)}
+                            {errors.confirmPassword && (<p className="text-xs text-red-300">{errors.confirmPassword.message}</p>)}
                         </div>
 
                     </div>
