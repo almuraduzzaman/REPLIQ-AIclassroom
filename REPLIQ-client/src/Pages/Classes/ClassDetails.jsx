@@ -36,7 +36,7 @@ const ClassDetails = () => {
                     timer: 1500
                 });
             } else {
-                axios.post('http://localhost:5000/selectedClasses', cartItem)
+                axios.post('https://repliq-server-phi.vercel.app/selectedClasses', cartItem)
                     .then(res => {
                         if (res.data.insertedId) {
                             refetch();

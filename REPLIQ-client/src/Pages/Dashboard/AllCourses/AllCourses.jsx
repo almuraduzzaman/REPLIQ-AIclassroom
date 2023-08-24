@@ -15,7 +15,7 @@ const AllCourses = () => {
 
 
     useEffect(() => {
-        axios.get('http://localhost:5000/courses')
+        axios.get('https://repliq-server-phi.vercel.app/courses')
             .then(res => {
                 setClasses(res.data);
                 setLoadingData(false);
@@ -33,7 +33,7 @@ const AllCourses = () => {
             return
         }
 
-        axios.get(`http://localhost:5000/getCourseByName/${searchText}`)
+        axios.get(`https://repliq-server-phi.vercel.app/getCourseByName/${searchText}`)
             .then((res) => {
                 setClasses(res.data);
                 setLoadingData(false);
@@ -85,7 +85,7 @@ const AllCourses = () => {
                         >
                             Explore other courses
                         </button>
-                    </div> : <ClassesList classes={classes} setClasses={setClasses}/>
+                    </div> : <ClassesList classes={classes} setClasses={setClasses} />
             }
 
         </>

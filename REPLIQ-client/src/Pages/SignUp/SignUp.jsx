@@ -42,7 +42,7 @@ const SignUp = () => {
                 updateUserProfile(data.name, data.photoURL)
                     .then(() => {
                         const saveUser = { name: data.name, email: data.email, phone: data.phone, role: 'user' }
-                        axios.post('http://localhost:5000/users', saveUser)
+                        axios.post('https://repliq-server-phi.vercel.app/users', saveUser)
                             .then(res => {
                                 // console.log(res);
                                 if (res?.data?.insertedId) {
@@ -70,7 +70,7 @@ const SignUp = () => {
             .then((result) => {
                 const newUser = result.user;
                 const saveUser = { name: newUser.displayName, email: newUser.email, phone: newUser.phoneNumber, role: 'user' }
-                axios.post('http://localhost:5000/users', saveUser)
+                axios.post('https://repliq-server-phi.vercel.app/users', saveUser)
                     .then(res => {
                         // console.log(res);
                         if (res?.data?.insertedId) {

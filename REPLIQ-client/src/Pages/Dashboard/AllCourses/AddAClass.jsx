@@ -25,7 +25,7 @@ const AddAClass = () => {
         }
         console.log(newItem)
 
-        fetch(`http://localhost:5000/upload-course`, {
+        fetch(`https://repliq-server-phi.vercel.app/upload-course`, {
             method: "POST",
             headers: {
                 'content-type': 'application/json'

@@ -23,7 +23,7 @@ const SelectedClasses = () => {
             confirmButtonText: 'Yes, delete it!'
         }).then((result) => {
             if (result.isConfirmed) {
-                axios.delete(`http://localhost:5000/selectedClasses/${id}`)
+                axios.delete(`https://repliq-server-phi.vercel.app/selectedClasses/${id}`)
                     .then(res => {
                         if (res.data.deletedCount > 0) {
                             refetch();

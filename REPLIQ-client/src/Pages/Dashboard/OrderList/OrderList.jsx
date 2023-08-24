@@ -9,7 +9,7 @@ const OrderList = () => {
     // console.log(orderList);
 
     useEffect(() => {
-        axios.get('http://localhost:5000/orderList')
+        axios.get('https://repliq-server-phi.vercel.app/orderList')
             .then(res => {
                 setOrderList(res.data);
             })

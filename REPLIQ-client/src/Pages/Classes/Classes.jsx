@@ -20,7 +20,7 @@ const Classes = () => {
 
 
     useEffect(() => {
-        axios.get('http://localhost:5000/courses')
+        axios.get('https://repliq-server-phi.vercel.app/courses')
             .then(res => {
                 setClasses(res.data);
                 setLoadingData(false);
@@ -38,7 +38,7 @@ const Classes = () => {
             return
         }
 
-        axios.get(`http://localhost:5000/getCourseByName/${searchText}`)
+        axios.get(`https://repliq-server-phi.vercel.app/getCourseByName/${searchText}`)
             .then((res) => {
                 setClasses(res.data);
                 setLoadingData(false);
@@ -75,7 +75,7 @@ const Classes = () => {
                 className="bg-[#4da6ff] hover:bg-[#4da6ffd4] px-3 py-2 rounded-2xl font-bold text-gray-100 fixed bottom-5 right-5 z-50" onClick={() => window.my_modal_3.showModal()}>
                 Contact Us
             </motion.button>
-            <Modal/>
+            <Modal />
 
             <SectionTitle heading={'Browse All Courses'} subHeading={'Discover a wide range of programming language courses for all skill levels'} />
 
@@ -108,7 +108,7 @@ const Classes = () => {
                     </div> : <div>
                         {
                             changeLayout ? (
-                                <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 mx-4 md:mx-16 lg:mx-24 mt-10">{classes.map(classObj => <ClassesCard key={classObj._id} classObj={classObj}  setClasses={setClasses}/>)}</div>
+                                <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 mx-4 md:mx-16 lg:mx-24 mt-10">{classes.map(classObj => <ClassesCard key={classObj._id} classObj={classObj} setClasses={setClasses} />)}</div>
                             ) : (
                                 <ClassesList classes={classes} setClasses={setClasses} />
                             )

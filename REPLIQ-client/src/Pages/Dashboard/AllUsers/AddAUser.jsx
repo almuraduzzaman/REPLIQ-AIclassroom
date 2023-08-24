@@ -16,7 +16,7 @@ const AddAUser = () => {
         setError('')
 
         const saveUser = { name: data.name, email: data.email, phone: data.phone, role: 'user' }
-        axios.post('http://localhost:5000/users', saveUser)
+        axios.post('https://repliq-server-phi.vercel.app/users', saveUser)
             .then(res => {
                 // console.log(res);
                 if (res?.data?.insertedId) {

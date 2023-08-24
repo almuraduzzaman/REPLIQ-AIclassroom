@@ -59,7 +59,7 @@ const Login = () => {
                 const newUser = result.user;
                 // console.log(newUser);
                 const saveUser = { name: newUser.displayName, email: newUser.email, phone: newUser.phoneNumber, role: 'user' }
-                axios.post('http://localhost:5000/users', saveUser)
+                axios.post('https://repliq-server-phi.vercel.app/users', saveUser)
                     .then(res => {
                         // console.log(res);
                         if (res?.data?.insertedId) {

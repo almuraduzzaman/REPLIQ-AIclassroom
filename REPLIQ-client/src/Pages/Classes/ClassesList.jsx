@@ -27,7 +27,7 @@ const ClassesList = ({ classes, setClasses }) => {
             confirmButtonText: 'Yes, delete it!'
         }).then((result) => {
             if (result.isConfirmed) {
-                axios.delete(`http://localhost:5000/deleteClasses/${id}`)
+                axios.delete(`https://repliq-server-phi.vercel.app/deleteClasses/${id}`)
                     .then(res => {
                         if (res.data.deletedCount > 0) {
                             Swal.fire(
@@ -59,7 +59,7 @@ const ClassesList = ({ classes, setClasses }) => {
                     timer: 1500
                 });
             } else {
-                axios.post('http://localhost:5000/selectedClasses', cartItem)
+                axios.post('https://repliq-server-phi.vercel.app/selectedClasses', cartItem)
                     .then(res => {
                         if (res.data.insertedId) {
                             refetch();

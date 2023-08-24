@@ -9,7 +9,7 @@ const PopularClasses = () => {
     const [classes, setClasses] = useState([]);
     // console.log(classes);
     useEffect(() => {
-        axios.get('http://localhost:5000/popularCourses')
+        axios.get('https://repliq-server-phi.vercel.app/popularCourses')
             .then(res => setClasses(res.data))
             .catch(err => console.log(err.message))
     }, [])

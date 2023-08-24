@@ -18,7 +18,7 @@ const AdminHome = () => {
 
 
     useEffect(() => {
-        axios.get('http://localhost:5000/courses')
+        axios.get('https://repliq-server-phi.vercel.app/courses')
             .then(res => {
                 setTotalClass(res.data);
                 setIsLoading(false);
@@ -27,7 +27,7 @@ const AdminHome = () => {
                 console.error('Error fetching courses:', error);
             });
 
-        axios.get('http://localhost:5000/orderList')
+        axios.get('https://repliq-server-phi.vercel.app/orderList')
             .then(res => {
                 setTotalOrder(res.data);
                 setIsLoading(false);
@@ -41,7 +41,7 @@ const AdminHome = () => {
         const res = await axiosSecure.get('/users')
         return res.data;
     });
-    
+
 
     return (
         <section className="text-neutral-700 w-2/3">
