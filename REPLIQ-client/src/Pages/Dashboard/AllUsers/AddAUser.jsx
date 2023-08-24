@@ -11,7 +11,7 @@ const AddAUser = () => {
     const { register, handleSubmit, reset, control, formState: { errors } } = useForm();
 
     const onSubmit = data => {
-        console.log(data);
+        // console.log(data);
 
         setError('')
 
@@ -37,7 +37,7 @@ const AddAUser = () => {
     return (
         <div className="h-full bg-gradient-to-r from-[#8EC5FC] to-[#E0C3FC] w-full py-16">
             <Helmet>
-                <title>Add User | AIClassroom</title>
+                <title>Add User | AI-classroom</title>
             </Helmet>
             <div className="flex flex-col items-center justify-center">
                 <form onSubmit={handleSubmit(onSubmit)} className="bg-white shadow rounded  md:w-1/2 w-full p-10">
@@ -48,13 +48,13 @@ const AddAUser = () => {
                     <div>
                         <label className="text-sm font-medium leading-none text-gray-800">Name</label>
                         <input {...register("name", { required: true })} type="text" className="bg-gray-200 border rounded focus:outline-none text-xs font-medium leading-none text-gray-800 py-3 w-full pl-3 mt-2" />
-                        {errors.name?.type === 'required' && <p>Name is required</p>}
+                        {errors.name?.type === 'required' && <p className="text-xs text-red-300">Name is required</p>}
                     </div>
 
                     <div className="mt-6 w-full">
                         <label className="text-sm font-medium leading-none text-gray-800">Email</label>
                         <input {...register("email", { required: true })} type="email" className="bg-gray-200 border rounded focus:outline-none text-xs font-medium leading-none text-gray-800 py-3 w-full pl-3 mt-2" />
-                        {errors.email?.type === 'required' && <p>Email is required</p>}
+                        {errors.email?.type === 'required' && <p className="text-xs text-red-300">Email is required</p>}
                     </div>
 
                     <div className="mt-6 w-full">
@@ -77,7 +77,7 @@ const AddAUser = () => {
                                 />
                             )}
                         />
-                        {errors.phone?.type === 'required' && <p>Phone is required</p>}
+                        {errors.phone?.type === 'required' && <p className="text-xs text-red-300">Phone is required</p>}
                     </div>
 
 

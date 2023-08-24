@@ -45,7 +45,7 @@ const NavBar = () => {
 
 
             <Link to={'/'}>
-                <img className='h-[50px]' src={logo1} alt="Speak Up Summers" />
+                <img className='h-[50px]' src={logo1} alt="AI-classroom" />
             </Link>
 
             <div className="navbar-center hidden lg:flex">

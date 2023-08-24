@@ -30,14 +30,14 @@ const SignUp = () => {
     const { register, handleSubmit, reset, watch, control, formState: { errors } } = useForm();
 
     const onSubmit = data => {
-        console.log(data);
+        // console.log(data);
 
         setError('')
 
         createUser(data.email, data.confirmPassword)
             .then(result => {
                 const newUser = result.user;
-                console.log(newUser);
+                // console.log(newUser);
 
                 updateUserProfile(data.name, data.photoURL)
                     .then(() => {
@@ -95,7 +95,7 @@ const SignUp = () => {
     return (
         <div className="h-full bg-gradient-to-r from-[#8EC5FC] to-[#E0C3FC] w-full py-16 px-4">
             <Helmet>
-                <title>SignUp | AIClassroom</title>
+                <title>SignUp | AI-classroom</title>
             </Helmet>
             <div className="flex flex-col items-center justify-center">
                 <form onSubmit={handleSubmit(onSubmit)} className="bg-white shadow rounded lg:w-1/3  md:w-1/2 w-full p-10">

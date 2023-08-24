@@ -43,7 +43,7 @@ const Dashboard = () => {
                 <ul className="menu p-4 w-80 h-full bg-base-200 text-base-content">
                     {/* Sidebar content here */}
                     <Link to={'/'}>
-                        <img className='h-[70px] mx-auto my-10' src={logo} alt="Speak Up Summers" />
+                        <img className='h-[70px] mx-auto my-10' src={logo} alt="AI-classroom" />
                     </Link>
                     {
                         isAdmin ? <>

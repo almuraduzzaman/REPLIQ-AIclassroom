@@ -79,7 +79,6 @@ const AllUsers = () => {
                                 <td className="capitalize ">{user?.role ? user.role : 'student'}</td>
                                 <td>
                                     <div className="flex gap-4">
-                                        {/* <button className="btn btn-warning">Delete</button> */}
                                         <button
                                             onClick={() => handleDeleteUser(user._id)}
                                             className="btn cursor-pointer rounded-md bg-[#538EC8] hover:bg-[#4c77a1] text-gray-100 text-xl"

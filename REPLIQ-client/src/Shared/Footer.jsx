@@ -9,10 +9,10 @@ const Footer = () => {
             <div className="grid gap-10 row-gap-6 mb-8 sm:grid-cols-2 lg:grid-cols-4">
                 <div className="sm:col-span-2">
                     <Link to={'/'}>
-                        <img className='h-[70px]' src={logo1} alt="Speak Up Summers" />
+                        <img className='h-[70px]' src={logo1} alt="AI-classroom" />
                     </Link>
                     <div className="mt-6 lg:max-w-sm">
-                        <p className="text-sm text-gray-500">Unleash the potential of AI at AIClassroom.online. Explore comprehensive AI courses and gain expertise in this transformative field. Master the skills to thrive in the age of artificial intelligence.</p>
+                        <p className="text-sm text-gray-500">Unleash the potential of AI at AI-classroom.online. Explore comprehensive AI courses and gain expertise in this transformative field. Master the skills to thrive in the age of artificial intelligence.</p>
                     </div>
                 </div>
                 <div className="space-y-2 text-sm">
@@ -55,13 +55,13 @@ const Footer = () => {
                         </a>
                     </div>
                     <p className="mt-4 text-sm text-gray-500">
-                        Embark on an AI learning journey at AIClassroom.online. Discover cutting-edge courses to enhance your understanding of artificial intelligence. Acquire valuable skills and stay ahead in the rapidly evolving world of AI.
+                        Embark on an AI learning journey at AI-classroom.online. Discover cutting-edge courses to enhance your understanding of artificial intelligence. Acquire valuable skills and stay ahead in the rapidly evolving world of AI.
                     </p>
                 </div>
             </div>
             <div className="flex flex-col-reverse justify-between pt-5 pb-10 border-t border-gray-500 lg:flex-row">
                 <p className="text-sm text-gray-600">
-                    © 2023 AIClassroom. All rights reserved. A project by <a className='font-medium' href="https://al-murad-uzzaman.web.app/" target="_blank" rel="noopener noreferrer">Murad</a>.
+                    © 2023 AI-classroom. All rights reserved. A project by <a className='font-medium' href="https://al-murad-uzzaman.web.app/" target="_blank" rel="noopener noreferrer">Murad</a>.
                 </p>
                 <ul className="flex flex-col mb-3 space-y-2 lg:mb-0 sm:space-y-0 sm:space-x-5 sm:flex-row">
                     <li className="text-sm text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400">F.A.Q</li>

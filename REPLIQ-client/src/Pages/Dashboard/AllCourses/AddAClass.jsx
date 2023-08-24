@@ -23,7 +23,7 @@ const AddAClass = () => {
             overview: data.overview,
             title: data.title
         }
-        console.log(newItem)
+        // console.log(newItem)
 
         fetch(`https://repliq-server-phi.vercel.app/upload-course`, {
             method: "POST",
@@ -74,7 +74,7 @@ const AddAClass = () => {
                                     type="text"
                                     {...register("title", { required: true })}
                                 />
-                                {errors.title?.type === 'required' && <p>Course Title is required</p>}
+                                {errors.title?.type === 'required' && <p className="text-xs text-red-300">Course Title is required</p>}
                             </div>
                             <div className="w-1/2">
                                 <label className="font-medium">Tutors</label>
@@ -84,7 +84,7 @@ const AddAClass = () => {
                                     type="text"
                                     {...register("Tutors", { required: true })}
                                 />
-                                {errors.Tutors?.type === 'required' && <p>Tutors is required</p>}
+                                {errors.Tutors?.type === 'required' && <p className="text-xs text-red-300">Tutors is required</p>}
                             </div>
                         </div>
 
@@ -98,7 +98,7 @@ const AddAClass = () => {
                                     type="text"
                                     {...register("domain", { required: true })}
                                 />
-                                {errors.domain?.type === 'required' && <p>Domain is required</p>}
+                                {errors.domain?.type === 'required' && <p className="text-xs text-red-300">Domain is required</p>}
                             </div>
                             <div className="w-1/3">
                                 <label className="font-medium">Duration</label>
@@ -108,7 +108,7 @@ const AddAClass = () => {
                                     type="text"
                                     {...register("duration", { required: true })}
                                 />
-                                {errors.duration?.type === 'required' && <p>Duration is required</p>}
+                                {errors.duration?.type === 'required' && <p className="text-xs text-red-300">Duration is required</p>}
                             </div>
                             <div className="w-1/3">
                                 <label className="font-medium">Lectures</label>
@@ -132,7 +132,7 @@ const AddAClass = () => {
                                     min='1'
                                     {...register("Students", { required: true })}
                                 />
-                                {errors.Students?.type === 'required' && <p>Students number is required</p>}
+                                {errors.Students?.type === 'required' && <p className="text-xs text-red-300">Students number is required</p>}
                             </div>
                             <div className="w-1/3">
                                 <label className="font-medium">Course Image</label>
@@ -142,7 +142,7 @@ const AddAClass = () => {
                                     type="url"
                                     {...register("img", { required: true })}
                                 />
-                                {errors.img?.type === 'required' && <p>Course Image is required</p>}
+                                {errors.img?.type === 'required' && <p className="text-xs text-red-300">Course Image is required</p>}
                             </div>
                             <div className="w-1/3">
                                 <label className="font-medium">King Image</label>
@@ -152,7 +152,7 @@ const AddAClass = () => {
                                     type="url"
                                     {...register("king", { required: true })}
                                 />
-                                {errors.king?.type === 'required' && <p>King Image is required</p>}
+                                {errors.king?.type === 'required' && <p className="text-xs text-red-300">King Image is required</p>}
                             </div>
                         </div>
 
@@ -165,7 +165,7 @@ const AddAClass = () => {
                                     type="text"
                                     {...register("Training_program_benefits", { required: true })}
                                 />
-                                {errors.Training_program_benefits?.type === 'required' && <p>Duration is required</p>}
+                                {errors.Training_program_benefits?.type === 'required' && <p className="text-xs text-red-300">Duration is required</p>}
                             </div>
                         </div>
 
@@ -188,7 +188,7 @@ const AddAClass = () => {
                                     type="text"
                                     {...register("Curriculum", { required: true })}
                                 ></textarea>
-                                {errors.Curriculum?.type === 'required' && <p>Curriculum is required</p>}
+                                {errors.Curriculum?.type === 'required' && <p className="text-xs text-red-300">Curriculum is required</p>}
                             </div>
 
 
@@ -206,7 +206,7 @@ const AddAClass = () => {
                                     rows="5"
                                     {...register("overview", { required: true })}
                                 ></textarea>
-                                {errors.overview?.type === 'required' && <p>Overview is required</p>}
+                                {errors.overview?.type === 'required' && <p className="text-xs text-red-300">Overview is required</p>}
                             </div>
                         </div>
 
@@ -215,7 +215,7 @@ const AddAClass = () => {
                                 className="w-full cursor-pointer rounded-md bg-[#538EC8] hover:bg-[#4c77a1] hover:bg-gradient-to-r text-gray-100 py-3 px-5 text-base btn border-0"
                                 type="submit"
                             >
-                                ADD
+                                ADD CLASS
                             </button>
                         </div>
                     </form>

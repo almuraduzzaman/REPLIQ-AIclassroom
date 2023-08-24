@@ -48,10 +48,6 @@ const router = createBrowserRouter([
         loader: ({ params }) => fetch(`https://repliq-server-phi.vercel.app/courses/${params.id}`)
       },
       {
-        path: 'add-class',
-        element: <AddAClass />
-      },
-      {
         path: 'services',
         element: <Services />
       }
