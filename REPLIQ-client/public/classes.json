@@ -1,0 +1,682 @@
+[
+    {
+        "domain": "Python Programming",
+        "title": "Python Programming Fundamentals",
+        "duration": "4-6 weeks",
+        "overview": "Learn the fundamentals of Python programming language. Master the syntax, data types, control flow, and object-oriented programming concepts to build powerful and efficient applications.",
+        "Training_program_benefits": [
+            "Python programming live lectures (on the spot doubt clearance)",
+            "Basic and advanced python libraries",
+            "Game development lectures",
+            "Quizzes for self-assessment",
+            "Live lectures with coding",
+            "Project for performance evaluation (optional)",
+            "Opportunity for internship with AI-Shala",
+            "Certificate program"
+        ],
+        "Tutors": "Mehaboob Basha, Tere Nagendra Babu, Dharma, Parth",
+        "Students": "30",
+        "Lectures": "16",
+        "starting": "Anytime",
+        "time": "Time: 3 months (flipped classroom)",
+        "king": "https://res.cloudinary.com/dd6g64flm/image/upload/v1686832218/Python_Programming_2_cb4pwo.jpg",
+        "Curriculum": [
+            "Module 1: Basic and Introduction to Python\n\nOverview of Python and its features\nSetting up the Python development environment\nRunning Python scripts and interactive sessions\nUnderstanding variables, data types, and basic operations",
+            "Module 2: Basic and Advanced data structures\n\nWorking with lists, tuples, and dictionaries\nAccessing, modifying, and manipulating data within data structures\nExploring built-in functions and methods for data structure operations\nUnderstanding the concept of mutability and immutability",
+            "Module 3: Advanced libraries\n\nExploring commonly used Python libraries (e.g., NumPy, Pandas, Matplotlib)\nInstalling and importing external modules\nLeveraging libraries for data analysis, visualization, and more\nOverview of popular Python frameworks and their applications",
+            "Module 4: Object-Oriented Programming (OOP) in Python\n\nUnderstanding the principles and concepts of object-oriented programming\nCreating classes, objects, and attributes\nImplementing methods and encapsulation\nExploring inheritance, polymorphism, and abstraction in Python",
+            "Module 5: File Handling and Input/Output Operations\n\nReading and writing data to files using Python\nHandling different file formats (e.g., text files, CSV, JSON)\nManaging file resources and working with file pointers\nParsing and processing data from files efficiently",
+            "Module 6: Exception Handling and Error Management\n\nUnderstanding exceptions and their role in Python programs\nUsing try-except blocks for error handling and graceful program execution\nHandling specific exceptions and multiple exception types\nUtilizing the finally block for cleanup operations",
+            "Module 7: Advanced Topics in Python\n\nExploring advanced concepts and techniques in Python programming\nWorking with generators and iterators for efficient memory usage\nUnderstanding decorators and their applications\nIntroduction to multithreading and multiprocessing in Python",
+            "Module 8: Web Development with Python\n\nIntroduction to web development using Python\nBuilding web applications using frameworks such as Flask or Django\nHandling HTTP requests and responses\nIntegrating databases and creating dynamic web pages",
+            "Module 9: Data Analysis and Visualization\n\nAdvanced data manipulation and analysis using libraries such as Pandas\nExploratory data analysis and data cleaning techniques\nData visualization using Matplotlib, Seaborn, or Plotly\nApplying statistical analysis and generating insights from data",
+            "Module 10: Machine Learning with Python\n\nIntroduction to machine learning concepts and algorithms\nUtilizing popular machine learning libraries like Scikit-learn\nData preprocessing, feature engineering, and model evaluation\nBuilding and training machine learning models for various tasks"
+        ],
+        "img": "https://res.cloudinary.com/dd6g64flm/image/upload/v1686832219/Python_Programming_1_blwivo.png"
+    },
+    {
+        "domain": "Machine Learning",
+        "king": "https://res.cloudinary.com/dd6g64flm/image/upload/v1686832214/Machine_Learning__ML__2_tsfojp.jpg",
+        "title": "Machine Learning Fundamentals",
+        "img": "https://res.cloudinary.com/dd6g64flm/image/upload/v1686909854/ML_3_r6zhnv.jpg",
+        "duration": "6-8 weeks",
+        "overview": "Explore the exciting field of machine learning. Gain hands-on experience with popular algorithms and techniques to train models that can make predictions and decisions based on data.",
+        "Training_program_benefits": [
+            "Hands-on experience with popular ML algorithms and techniques",
+            "Training models for predictions and decision-making based on data",
+            "Live lectures with coding",
+            "Quizzes for self-assessment",
+            "Optional project for practical application",
+            "Opportunity for internship with AI-Shala",
+            "Certificate program"
+        ],
+        "Curriculum": [
+            "Module 1: Introduction to Machine Learning\n\nUnderstanding the basics of machine learning and its applications\nDifferentiating between supervised, unsupervised, and reinforcement learning\nExploring real-world examples and case studies of machine learning",
+            "Module 2: Data Pre-processing and Exploratory Data Analysis (EDA)\n\nCleaning and pre-processing raw data for machine learning\nHandling missing data and outliers\nVisualizing and analyzing data using statistical techniques\nFeature scaling and normalization",
+            "Module 3: Supervised Learning Algorithms\n\nLinear regression and logistic regression for regression and classification tasks\nDecision trees and random forests for classification and regression\nSupport Vector Machines (SVM) for binary and multi-class classification\nEvaluating model performance using metrics like accuracy, precision, recall, and F1-score",
+            "Module 4: Unsupervised Learning Algorithms\n\nK-means clustering for grouping similar data points\nHierarchical clustering for creating clusters based on data structure\nDimensionality reduction techniques such as Principal Component Analysis (PCA)\nEvaluating clustering algorithms using metrics like silhouette score and inertia",
+            "Module 5: Evaluation and Model Selection\n\nCross-validation techniques for estimating model performance\nOverfitting, underfitting, and regularization techniques\nHyperparameter tuning for optimizing model performance\nComparing and selecting the best-performing models",
+            "Module 6: Neural Networks and Deep Learning\n\nUnderstanding the basics of artificial neural networks (ANN)\nActivation functions, backpropagation, and gradient descent\nBuilding and training deep learning models with TensorFlow or PyTorch\nConvolutional Neural Networks (CNN) for image recognition and processing",
+            "Module 7: Natural Language Processing (NLP)\n\nBasics of text pre-processing and feature extraction\nBuilding text classification models using techniques like bag-of-words and TF-IDF\nSentiment analysis and text generation using recurrent neural networks (RNN)",
+            "Module 8: Recommender Systems\n\nCollaborative filtering and content-based recommendation approaches\nImplementing recommendation algorithms such as matrix factorization and item-based filtering\nEvaluating recommendation systems using metrics like precision and recall",
+            "Module 9: Deployment and Model Interpretability\n\nConverting machine learning models into production-ready formats\nDeploying models as web services or APIs\nModel interpretability techniques to understand and explain model predictions\nEthical considerations and bias in machine learning algorithms"
+        ],
+        "Tutors": "Mehaboob Basha, Tere Nagendra Babu, Dharma, Parth",
+        "Students": "30"
+    },
+    {
+        "domain": "Data Science",
+        "img": "https://vaibhavbajaj.com/wp-content/uploads/2020/10/datasciencewithpython.jpg",
+        "king": "https://aishala.in/img/courses/course_details_thumb_dive-in.gif",
+        "title": "Data Science Fundamentals",
+        "duration": "8-10 weeks",
+        "overview": "Dive into the world of data science and learn the essential skills to extract insights from data. Discover data cleaning, visualization, statistical analysis, and machine learning to solve real-world problems.",
+        "Training_program_benefits": [
+            "Essential skills for extracting insights from data",
+            "Data cleaning, visualization, and statistical analysis",
+            "Introduction to machine learning for solving real-world problems",
+            "Live lectures with coding",
+            "Quizzes for self-assessment",
+            "Optional project for practical application",
+            "Opportunity for internship with AI-Shala",
+            "Certificate program"
+        ],
+        "Curriculum": [
+            "Module 1: Introduction to Data Science\n\nUnderstanding the role and significance of data science in various industries\nExploring the data science lifecycle and the different stages involved\nOverview of data science tools, technologies, and job roles in the industry",
+            "Module 2: Data Collection and Cleaning\n\nGathering and extracting data from various sources (APIs, databases, web scraping)\nHandling missing data, outliers, and data inconsistencies\nCleaning and transforming data for analysis and modeling",
+            "Module 3: Exploratory Data Analysis (EDA)\n\nSummarizing and visualizing data using descriptive statistics and data visualization techniques\nIdentifying patterns, trends, and relationships in data\nConducting statistical analysis and hypothesis testing",
+            "Module 4: Data Visualization\n\nCreating compelling visualizations to effectively communicate data insights\nChoosing appropriate charts, graphs, and visualization libraries\nEnhancing visualizations with interactivity and storytelling elements",
+            "Module 5: Statistical Analysis\n\nApplying statistical techniques for data analysis and inference\nUnderstanding probability distributions, hypothesis testing, and statistical significance\nPerforming correlation analysis and regression modeling",
+            "Module 6: Machine Learning\n\nIntroduction to supervised, unsupervised, and semi-supervised learning\nRegression, classification, and clustering algorithms\nModel evaluation, selection, and hyperparameter tuning\nHandling imbalanced datasets and performing feature selection",
+            "Module 7: Big Data and Distributed Computing\n\nHandling large-scale datasets using distributed computing frameworks (e.g., Hadoop, Spark)\nExploring data processing and analysis with tools like MapReduce and Spark\nApplying machine learning algorithms to big data using scalable techniques",
+            "Module 8: Natural Language Processing (NLP)\n\nProcessing and analyzing text data using NLP techniques\nText pre-processing, tokenization, and sentiment analysis\nBuilding text classification and language generation models",
+            "Module 9: Data Science Ethics and Privacy\n\nUnderstanding ethical considerations and biases in data science\nPrivacy concerns, data anonymization, and security\nResponsible and fair use of data in the context of data science projects",
+            "Module 10: Capstone Project\n\nApplying data science techniques and methodologies to solve a real-world problem\nDesigning and executing a data science project from end to end\nPresenting findings and insights through data visualizations and reports"
+        ],
+        "Tutors": "Mehaboob Basha, Tere Nagendra Babu, Dharma, Parth",
+        "Students": "30"
+    },
+    {
+        "domain": "Linear Algebra",
+        "king": "https://res.cloudinary.com/dd6g64flm/image/upload/v1686832214/Machine_Learning__ML__2_tsfojp.jpg",
+        "title": "Linear Algebra for Machine Learning",
+        "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/f5/50193edade4c4a9e48e60f8a6dd4e4/LA-DL_Square_Banner_Coursera_800x800.png?auto=format%2Ccompress&dpr=1",
+        "duration": "2-4 weeks",
+        "overview": "Develop a solid foundation in linear algebra, a fundamental mathematical framework for machine learning. Understand vectors, matrices, eigenvalues, and their applications in solving ML problems.",
+        "Training_program_benefits": [
+            "Solid foundation in linear algebra for ML",
+            "Understanding vectors, matrices, and eigenvalues",
+            "Application of linear algebra in solving ML problems",
+            "Live lectures with coding",
+            "Quizzes for self-assessment",
+            "Opportunity for internship with AI-Shala",
+            "Certificate program"
+        ],
+        "Curriculum": [
+            "Module 1: Introduction to Linear Algebra\n\nUnderstanding vectors, matrices, and tensors\nBasic operations on vectors and matrices (addition, subtraction, multiplication)\nMatrix transposition, inverse, and determinant\nSolving systems of linear equations",
+            "Module 2: Vector Spaces and Subspaces\n\nDefining vector spaces and subspaces\nLinear dependence and independence of vectors\nBasis and dimension of a vector space\nSpan and linear combinations",
+            "Module 3: Matrix Operations and Transformations\n\nMatrix multiplication and properties\nMatrix rank and null space\nOrthogonal matrices and their applications\nEigenvalues and eigenvectors",
+            "Module 4: Linear Transformations and Projections\n\nUnderstanding linear transformations and their geometric interpretation\nProjection matrices and their role in machine learning\nOrthogonal projections and least squares regression\nPrincipal Component Analysis (PCA) and dimensionality reduction",
+            "Module 5: Matrix Decompositions\n\nLU decomposition and its applications\nQR decomposition for solving least squares problems\nSingular Value Decomposition (SVD) and its applications\nEigen decomposition and spectral theorem",
+            "Module 6: Optimization and Gradient Descent\n\nIntroduction to optimization problems in machine learning\nGradient descent algorithm and its variants\nVector and matrix derivatives for optimization\nSolving constrained optimization problems",
+            "Module 7: Applications of Linear Algebra in Machine Learning\n\nLinear regression and its relationship to linear algebra\nSupport Vector Machines (SVM) and kernel methods\nPrincipal Component Analysis (PCA) for dimensionality reduction\nRecommender systems and collaborative filtering"
+        ],
+        "Tutors": "Mehaboob Basha, Tere Nagendra Babu, Dharma, Parth",
+        "Students": "30"
+    },
+    {
+        "domain": "Statistics",
+        "king": "https://res.cloudinary.com/dd6g64flm/image/upload/v1686832214/Machine_Learning__ML__2_tsfojp.jpg",
+        "title": "Statistics Fundamentals",
+        "img": "data:image/jpeg;base64,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",
+        "duration": "4-6 weeks",
+        "overview": "Unlock the power of statistics for data analysis. Learn essential concepts like probability, hypothesis testing, regression analysis, and experimental design to make data-driven decisions.",
+        "Training_program_benefits": [
+            "Unlocking the power of statistics for data analysis",
+            "Concepts like probability, hypothesis testing, and regression analysis",
+            "Experimental design for making data-driven decisions",
+            "Live lectures with coding",
+            "Quizzes for self-assessment",
+            "Opportunity for internship with AI-Shala",
+            "Certificate program"
+        ],
+        "Curriculum": [
+            "Module 1: Introduction to Statistics\n\nUnderstanding the importance of statistics in data analysis and decision-making\nDifferentiating between descriptive and inferential statistics\nExploring the basic statistical terminologies and concepts",
+            "Module 2: Data Types and Measurement Scales\n\nIdentifying different types of data (categorical, numerical)\nUnderstanding measurement scales (nominal, ordinal, interval, ratio)\nHandling data transformation and normalization",
+            "Module 3: Descriptive Statistics\n\nSummarizing and visualizing data using measures of central tendency (mean, median, mode)\nInterpreting variability and dispersion using measures of spread (variance, standard deviation)\nConstructing graphical representations (histograms, box plots, scatter plots)",
+            "Module 4: Probability Theory\n\nUnderstanding the concept of probability and its applications\nComputation of probability using counting principles and probability rules\nCalculating conditional probability and independence\nExploring probability distributions (discrete and continuous)",
+            "Module 5: Sampling and Sampling Distributions\n\nSampling techniques and their implications for statistical inference\nCentral Limit Theorem and its role in constructing sampling distributions\nEstimating population parameters using sample statistics\nConfidence intervals and margin of error",
+            "Module 6: Hypothesis Testing\n\nFormulating null and alternative hypotheses\nConducting hypothesis tests using significance levels and p-values\nOne-sample, two-sample, and paired-sample tests\nInterpreting test results and making decisions based on hypothesis tests",
+            "Module 7: Analysis of Variance (ANOVA)\n\nComparing means across multiple groups using ANOVA\nUnderstanding the F-statistic, p-value, and post-hoc tests\nANOVA assumptions and interpretation of results",
+            "Module 8: Regression Analysis\n\nSimple linear regression for examining the relationship between two variables\nMultiple linear regression for modeling and prediction\nAssessing model fit, significance, and interpreting regression coefficients\nHandling assumptions and limitations of regression analysis",
+            "Module 9: Nonparametric Methods\n\nNonparametric tests for situations with less stringent assumptions\nWilcoxon rank-sum test, Kruskal-Wallis test, and Spearman's rank correlation\nApplication of nonparametric methods in real-world scenarios",
+            "Module 10: Experimental Design and Statistical Inference\n\nPrinciples of experimental design and randomized controlled trials\nAnalysis of variance for experimental data\nStatistical inference and causal inference\nEthical considerations in data collection and analysis"
+        ],
+        "Tutors": "Mehaboob Basha, Tere Nagendra Babu, Dharma, Parth",
+        "Students": "30"
+    },
+    {
+        "domain": "Deep Learning",
+        "king": "https://res.cloudinary.com/dd6g64flm/image/upload/v1686832214/Machine_Learning__ML__2_tsfojp.jpg",
+        "title": "Deep Learning Fundamentals",
+        "img": "https://vissonar.com/wp-content/uploads/2018/11/Inteligencia-Artificial-Deep-Learning.jpg",
+        "duration": "6-8 weeks",
+        "overview": "Delve into the realm of deep learning, a cutting-edge field of AI. Discover neural networks, convolutional and recurrent networks, and train models to tackle complex tasks like image recognition and natural language processing.",
+        "Training_program_benefits": [
+            "Exploration of cutting-edge deep learning techniques",
+            "Understanding neural networks, convolutional and recurrent networks",
+            "Training models for complex tasks like image recognition and NLP",
+            "Live lectures with coding",
+            "Quizzes for self-assessment",
+            "Opportunity for internship with AI-Shala",
+            "Certificate program"
+        ],
+        "Curriculum": [
+            "Module 1: Introduction to Deep Learning\n\nUnderstanding the basics of artificial neural networks and deep learning\nDifferentiating between shallow and deep networks\nExploring the history, motivations, and current trends in deep learning",
+            "Module 2: Neural Network Architecture\n\nBuilding blocks of neural networks: neurons, activation functions, and layers\nFeedforward neural networks and backpropagation algorithm\nDeep architectures: convolutional neural networks (CNNs), recurrent neural networks (RNNs), and generative adversarial networks (GANs)",
+            "Module 3: Training Deep Neural Networks\n\nData pre-processing and normalization techniques\nOptimizers and gradient descent variants\nRegularization methods: dropout, L1 and L2 regularization\nHandling overfitting and underfitting",
+            "Module 4: Convolutional Neural Networks (CNNs)\n\nUnderstanding CNN architecture and its applications in computer vision\nConvolutional layers, pooling layers, and activation functions\nTransfer learning and pre-trained CNN models\nObject detection, image classification, and image segmentation with CNNs",
+            "Module 5: Recurrent Neural Networks (RNNs)\n\nSequential data and its challenges in deep learning\nRNN architecture and working principles\nLong Short-Term Memory (LSTM) and Gated Recurrent Units (GRU)\nApplications of RNNs: natural language processing, speech recognition, and time series prediction",
+            "Module 6: Generative Adversarial Networks (GANs)\n\nUnderstanding the concept of GANs and its architecture\nGenerator and discriminator networks in GANs\nTraining GANs and overcoming challenges\nGenerating realistic images, text, and music with GANs",
+            "Module 7: Deep Reinforcement Learning\n\nReinforcement learning basics and its connection to deep learning\nQ-Learning, Deep Q-Networks (DQN), and policy gradients\nApplications of deep reinforcement learning in game playing and robotics",
+            "Module 8: Natural Language Processing (NLP) with Deep Learning\n\nWord embeddings and distributed representations\nRecurrent Neural Networks (RNNs) for language modeling and text generation\nSequence-to-Sequence models and attention mechanisms\nSentiment analysis and machine translation using deep learning",
+            "Module 9: Deployment and Model Optimization\n\nConverting deep learning models for deployment on different platforms\nModel optimization techniques for inference speed and memory efficiency\nDeployment considerations and best practices for real-world applications\nEthical considerations and fairness in deep learning algorithms"
+        ],
+        "Tutors": "Mehaboob Basha, Tere Nagendra Babu, Dharma, Parth",
+        "Students": "30"
+    },
+    {
+        "domain": "Big Data",
+        "king": "https://res.cloudinary.com/dd6g64flm/image/upload/v1686832214/Machine_Learning__ML__2_tsfojp.jpg",
+        "title": "Big Data Fundamentals",
+        "img": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Big-Data-and-Analytics.jpg",
+        "duration": "6-8 weeks",
+        "overview": "Harness the potential of big data technologies. Learn to process large datasets using Hadoop and utilize the power of Apache Spark for distributed data processing and analytics.",
+        "Training_program_benefits": [
+            "Harnessing the potential of big data technologies",
+            "Processing large datasets using Hadoop",
+            "Utilizing Apache Spark for distributed data processing and analytics",
+            "Live lectures with coding",
+            "Quizzes for self-assessment",
+            "Opportunity for internship with AI-Shala",
+            "Certificate program"
+        ],
+        "Curriculum": [
+            "Module 1: Introduction to Big Data\n\nUnderstanding the characteristics and challenges of big data\nExploring the three V's of big data: volume, velocity, and variety\nIdentifying the applications and impact of big data across industries",
+            "Module 2: Hadoop Fundamentals\n\nOverview of the Hadoop ecosystem and its components (HDFS, YARN, MapReduce)\nSetting up a Hadoop cluster and managing distributed storage\nWriting and executing MapReduce jobs for data processing",
+            "Module 3: Data Ingestion and Storage\n\nTechniques for data ingestion from various sources (batch and real-time)\nDistributed file systems and data storage formats (e.g., Avro, Parquet)\nData partitioning and replication for fault tolerance and scalability",
+            "Module 4: Hadoop Data Processing\n\nUnderstanding the MapReduce programming model for distributed computing\nWriting MapReduce programs in Java or using higher-level frameworks (e.g., Apache Pig, Apache Hive)\nPerforming data transformations, aggregations, and joins",
+            "Module 5: Hadoop Ecosystem Tools\n\nExploring additional tools in the Hadoop ecosystem (e.g., Apache Sqoop, Apache Flume, Apache Kafka)\nExtracting data from relational databases and streaming sources\nData integration and data pipeline management",
+            "Module 6: Introduction to Apache Spark\n\nUnderstanding the advantages of Apache Spark over traditional MapReduce\nWorking with resilient distributed datasets (RDDs)\nSpark's core components: Spark SQL, Spark Streaming, Spark MLlib, and GraphX",
+            "Module 7: Spark Data Processing\n\nTransforming and analyzing large-scale data using Spark's Data Frame and Dataset APIs\nApplying SQL queries, aggregations, and joins with Spark SQL\nStream processing and real-time analytics with Spark Streaming",
+            "Module 8: Machine Learning with Spark\n\nIntroduction to Spark MLlib for scalable machine learning\nBuilding and evaluating machine learning models using Spark\nHandling large-scale datasets and performing feature engineering",
+            "Module 9: Spark Graph Processing\n\nProcessing and analyzing graph data with GraphX\nGraph algorithms and graph analytics with Spark\nSocial network analysis and recommendation systems",
+            "Module 10: Data Visualization and Reporting\n\nVisualizing and communicating insights from big data\nExploring data visualization tools (e.g., Apache Zeppelin, Tableau)\nCreating interactive dashboards and reports"
+        ],
+        "Tutors": "Mehaboob Basha, Tere Nagendra Babu, Dharma, Parth",
+        "Students": "30"
+    },
+    {
+        "domain": "PySpark",
+        "king": "https://res.cloudinary.com/dd6g64flm/image/upload/v1686832214/Machine_Learning__ML__2_tsfojp.jpg",
+        "title": "PySpark and Spark ML Fundamentals",
+        "img": "https://theleftjoin.com/what-is-pyspark-and-why-should-i-use-it/what-is-pyspark-and-why-should-i-use-it.png",
+        "duration": "4-6 weeks",
+        "overview": "Master PySpark, the Python API for Apache Spark. Explore data manipulation, feature engineering, and machine learning with Spark MLlib to build scalable and efficient data pipelines.",
+        "Training_program_benefits": [
+            "Mastering PySpark, the Python API for Spark",
+            "Data manipulation, feature engineering, and ML with Spark MLlib",
+            "Building scalable and efficient data pipelines",
+            "Live lectures with coding",
+            "Quizzes for self-assessment",
+            "Opportunity for internship with AI-Shala",
+            "Certificate program"
+        ],
+        "Curriculum": [
+            "Module 1: Introduction to Apache Spark and PySpark\n\nUnderstanding the advantages of Apache Spark and its architecture\nOverview of PySpark and its integration with Python\nSetting up a PySpark environment and working with RDDs (Resilient Distributed Datasets)",
+            "Module 2: Data Manipulation and Transformation with PySpark\n\nPerforming data ingestion from various sources (e.g., CSV, JSON, Parquet)\nData cleaning, filtering, and transforming operations using PySpark\nWorking with structured and semi-structured data",
+            "Module 3: PySpark SQL and Data Frames\n\nIntroduction to PySpark SQL and its role in data analysis\nQuerying and manipulating data using SQL-like syntax with Data Frames\nApplying aggregations, joins, and filtering operations",
+            "Module 4: PySpark Streaming\n\nReal-time data processing and stream processing with PySpark\nWorking with streaming data sources (e.g., Kafka, Flume)\nWindowing operations and stateful stream processing",
+            "Module 5: Introduction to Spark MLlib\n\nUnderstanding the machine learning capabilities of Spark MLlib\nOverview of the MLlib pipeline API and its components\nFeature extraction, transformation, and selection techniques",
+            "Module 6: Supervised Learning with Spark ML\n\nClassification algorithms: Logistic Regression, Decision Trees, Random Forests, Gradient-Boosted Trees\nRegression algorithms: Linear Regression, Decision Trees Regression\nModel evaluation and hyperparameter tuning with cross-validation",
+            "Module 7: Unsupervised Learning with Spark ML\n\nClustering algorithms: K-means, Gaussian Mixture Models\nDimensionality reduction techniques: Principal Component Analysis (PCA)\nAnomaly detection and outlier detection",
+            "Module 8: Collaborative Filtering and Recommendation Systems\n\nBuilding recommendation systems using Spark MLlib\nMatrix factorization techniques: Alternating Least Squares (ALS)\nHandling large-scale datasets for collaborative filtering",
+            "Module 9: Spark ML Pipelines and Model Deployment\n\nUnderstanding Spark ML Pipelines for end-to-end machine learning workflows\nSaving and loading ML models for production deployment\nModel serialization and deployment considerations",
+            "Module 10: Advanced Topics and Integration\n\nFeature engineering techniques for advanced data pre-processing\nIntegration with external libraries and tools (e.g., TensorFlow, XGBoost)\nWorking with big data frameworks (e.g., Hadoop, Hive) in conjunction with PySpark"
+        ],
+        "Tutors": "Mehaboob Basha, Tere Nagendra Babu, Dharma, Parth",
+        "Students": "30"
+    },
+    {
+        "domain": "C and C++",
+        "king": "https://res.cloudinary.com/dd6g64flm/image/upload/v1686832214/Machine_Learning__ML__2_tsfojp.jpg",
+        "title": "C and C++ Programming Fundamentals",
+        "img": "https://www.educative.io/v2api/editorpage/5295407815458816/image/4810048073629696",
+        "duration": "8-10 weeks",
+        "overview": "Learn the foundational languages of C and C++. Gain expertise in programming concepts, memory management, and build essential skills for system-level development and performance-critical applications",
+        "Training_program_benefits": [
+            "Learning foundational languages of C and C++",
+            "Expertise in programming concepts and memory management",
+            "Essential skills for system-level development and performance-critical applications",
+            "Live lectures with coding",
+            "Quizzes for self-assessment",
+            "Certificate program"
+        ],
+        "Curriculum": [
+            "Module 1: Introduction to Programming\n\nUnderstanding the basics of programming concepts and algorithms\nOverview of the software development life cycle\nSetting up a development environment for C and C++ programming",
+            "Module 2: Introduction to C Programming\n\nOverview of the C programming language and its features\nVariables, data types, and basic input/output operations\nControl flow structures: loops, conditionals, and branching\nFunctions and modular programming in C",
+            "Module 3: C Language Fundamentals\n\nArrays, strings, and pointers in C\nMemory management and dynamic memory allocation\nFile handling and input/output operations in C\nError handling and debugging techniques",
+            "Module 4: Object-Oriented Programming with C++\n\nIntroduction to object-oriented programming (OOP) concepts\nClasses, objects, and encapsulation in C++\nInheritance, polymorphism, and abstraction in C++\nOperator overloading and function templates",
+            "Module 5: C++ Language Features\n\nAdvanced data structures: vectors, lists, and maps in C++\nException handling and error propagation in C++\nStandard Template Library (STL) and its components\nMultithreading and concurrent programming in C++",
+            "Module 6: Memory Management and Optimization\n\nUnderstanding memory management in C and C++\nPointers, references, and memory allocation techniques\nMemory leaks and memory corruption issues\nPerformance optimization techniques for C and C++ programs",
+            "Module 7: Advanced Topics and Libraries\n\nAdvanced I/O operations and file handling in C and C++\nNetworking and socket programming using C and C++\nInterfacing with hardware and low-level programming\nIntroduction to popular C and C++ libraries (e.g., Boost, Qt)",
+            "Module 8: Debugging and Testing\n\nDebugging techniques and tools for C and C++ programs\nUnit testing and test-driven development (TDD) in C and C++\nCode profiling and performance analysis",
+            "Module 9: Best Practices and Coding Standards\n\nWriting clean and maintainable code in C and C++\nCoding standards and style guidelines\nDocumentation and code commenting practices\nCode reviews and version control integration"
+        ],
+        "Tutors": "Mehaboob Basha, Tere Nagendra Babu, Dharma, Parth",
+        "Students": "30"
+    },
+    {
+        "domain": "Java Programming",
+        "king": "https://res.cloudinary.com/dd6g64flm/image/upload/v1686832214/Machine_Learning__ML__2_tsfojp.jpg",
+        "title": "Java and Advanced Java Programming",
+        "img": "https://assets-prd.ignimgs.com/2021/09/01/sale-301982-article-image-1630523474787.jpeg",
+        "duration": "8-10 weeks",
+        "overview": "Master Java, the versatile programming language used in a wide range of applications. Explore advanced topics like multithreading, networking, and database connectivity to build robust Java applications.",
+        "Training_program_benefits": [
+            "Mastering the versatile programming language of Java",
+            "Advanced topics like multithreading, networking, and database connectivity",
+            "Building robust Java applications",
+            "Live lectures with coding",
+            "Quizzes for self-assessment",
+            "Certificate program"
+        ],
+        "Curriculum": [
+            "Module 1: Introduction to Java\n\nUnderstanding the Java platform and its advantages\nSetting up a Java development environment\nWriting and running your first Java program\nIntroduction to Java syntax, data types, and variables",
+            "Module 2: Object-Oriented Programming with Java\n\nUnderstanding the principles of object-oriented programming (OOP)\nClasses, objects, and encapsulation in Java\nInheritance, polymorphism, and abstraction in Java\nInterfaces and abstract classes in Java",
+            "Module 3: Java Language Fundamentals\n\nControl flow structures: loops, conditionals, and branching\nException handling and error propagation in Java\nWorking with arrays, collections, and generics in Java\nInput/output operations with Java streams",
+            "Module 4: Java Core Libraries\n\nExploring the Java Standard Library and its key packages\nWorking with dates, times, and formatting in Java\nFile handling and input/output operations in Java\nJava networking fundamentals: sockets and protocols",
+            "Module 5: Multithreading and Concurrency\n\nIntroduction to multithreading and concurrent programming in Java\nThread creation, synchronization, and inter-thread communication\nJava thread pools and executor framework\nManaging concurrent access to shared resources",
+            "Module 6: Java Database Connectivity (JDBC)\n\nIntroduction to database concepts and relational databases\nEstablishing database connections and executing SQL queries with JDBC\nWorking with result sets and performing database updates\nHandling transactions and managing database resources",
+            "Module 7: Java Servlets and JavaServer Pages (JSP)\n\nIntroduction to web development with Java Servlets and JSP\nHandling HTTP requests and building dynamic web applications\nSession management and servlet filters\nJavaServer Pages Standard Tag Library (JSTL) and expression language",
+            "Module 8: Java Enterprise Edition (Java EE) Overview\n\nOverview of Java EE architecture and components\nIntroduction to Enterprise JavaBeans (EJB) and Java Persistence API (JPA)\nJavaServer Faces (JSF) for building web interfaces\nJava Message Service (JMS) and messaging concepts",
+            "Module 9: Java Frameworks and Libraries\n\nIntroduction to popular Java frameworks (e.g., Spring, Hibernate)\nDependency management with Apache Maven\nIntroduction to RESTful web services with Java\nIntroduction to testing frameworks (e.g., JUnit, Mockito)",
+            "Module 10: Advanced Java Topics\n\nJava reflection and dynamic class loading\nSecurity considerations in Java applications\nIntroduction to JavaFX for building desktop applications\nJava performance optimization and memory management techniques"
+        ],
+        "Tutors": "Mehaboob Basha, Tere Nagendra Babu, Dharma, Parth",
+        "Students": "30"
+    },
+    {
+        "domain": "Flutter",
+        "king": "https://res.cloudinary.com/dd6g64flm/image/upload/v1686832214/Machine_Learning__ML__2_tsfojp.jpg",
+        "title": "Mobile App Development with Flutter",
+        "img": "https://uploads-ssl.webflow.com/5f841209f4e71b2d70034471/60bb4a2e143f632da3e56aea_Flutter%20app%20development%20(2).png",
+        "duration": "6-8 weeks",
+        "overview": "Build cross-platform mobile apps using Flutter framework. Learn Dart programming language, UI development, state management, and integration with backend services to create stunning mobile applications.",
+        "Training_program_benefits": [
+            "Building cross-platform mobile apps using Flutter",
+            "Learning Dart programming language",
+            "UI development and state management",
+            "Integration with backend services",
+            "Live lectures with coding",
+            "Quizzes for self-assessment",
+            "Opportunity for internship with AI-Shala",
+            "Certificate program"
+        ],
+        "Curriculum": [
+            "Module 1: Introduction to Mobile App Development and Flutter\n\nOverview of mobile app development and Flutter framework\nSetting up a Flutter development environment\nIntroduction to Dart programming language and its syntax\nBuilding and running your first Flutter app",
+            "Module 2: Flutter Widgets and UI Design\n\nUnderstanding Flutter widgets and widget hierarchy\nBuilding responsive and adaptive UI layouts with Flutter\nWorking with various widgets: containers, buttons, text fields, etc.\nHandling user input and gestures",
+            "Module 3: State Management in Flutter\n\nUnderstanding the concept of state and managing state in Flutter\nExploring different state management approaches (e.g., setState, Provider, BLoC)\nImplementing reactive UI updates with Flutter's reactive framework",
+            "Module 4: Navigation and Routing in Flutter\n\nNavigating between screens and managing app routes in Flutter\nImplementing navigation drawers, bottom navigation bars, and tabs\nPassing data between screens using route parameters",
+            "Module 5: Flutter Widgets for App Logic and Functionality\n\nUsing Flutter widgets for form validation and user input handling\nWorking with lists and grids to display dynamic content\nAnimation and motion in Flutter apps\nIntegrating device features (e.g., camera, GPS) using Flutter plugins",
+            "Module 6: Networking and API Integration\n\nMaking HTTP requests and handling responses in Flutter\nConsuming RESTful APIs and working with JSON data\nAuthentication and authorization in Flutter apps\nCaching and offline data storage",
+            "Module 7: Firebase Integration for Flutter Apps\n\nIntroduction to Firebase backend services for mobile apps\nSetting up Firebase project and integrating Firebase SDK with Flutter\nUser authentication with Firebase Authentication\nReal-time database and cloud storage with Firebase Firestore",
+            "Module 8: Stateful Data Management in Flutter\n\nImplementing advanced state management techniques in Flutter\nUsing Provider package for efficient and scalable state management\nRedux pattern and managing app state with Redux in Flutter",
+            "Module 9: Testing and Debugging Flutter Apps\n\nTesting Flutter widgets and app logic using Flutter testing framework\nDebugging techniques and tools for Flutter apps\nPerformance profiling and optimization of Flutter apps\nError handling and logging best practices",
+            "Module 10: Deployment and Publishing\n\nGenerating release builds for iOS and Android platforms\nApp signing and publishing to app stores (Google Play Store, Apple App Store)\nContinuous integration and delivery (CI/CD) for Flutter apps\nApp store optimization (ASO) and marketing strategies"
+        ],
+        "Tutors": "Mehaboob Basha, Tere Nagendra Babu, Dharma, Parth",
+        "Students": "30"
+    },
+    {
+        "domain": "DSA",
+        "king": "https://res.cloudinary.com/dd6g64flm/image/upload/v1686832214/Machine_Learning__ML__2_tsfojp.jpg",
+        "title": "Data Structures and Algorithms",
+        "img": "https://lastmomenttuitions.com/wp-content/uploads/2022/01/C-Programming-Notes-2.png",
+        "duration": "8-10 weeks",
+        "overview": "Develop a strong grasp of data structures and algorithms. Solve coding problems efficiently, implement common data structures, and optimize algorithms for better performance.",
+        "Training_program_benefits": [
+            "Strong grasp of data structures and algorithms",
+            "Efficient problem-solving and coding skills",
+            "Implementation of common data structures",
+            "Algorithm optimization for better performance",
+            "Live lectures with coding",
+            "Quizzes for self-assessment",
+            "Certificate program"
+        ],
+        "Curriculum": [
+            "Module 1: Introduction to Data Structures and Algorithms\n\nOverview of data structures and algorithms\nImportance and applications in software development",
+            "Module 2: Arrays and Strings\n\nArray manipulation and operations\nString manipulation and algorithms",
+            "Module 3: Linked Lists\n\nSingly linked lists\nDoubly linked lists\nCircular linked lists\nLinked list operations and algorithms",
+            "Module 4: Stacks and Queues\n\nStack implementation and operations\nQueue implementation and operations\nApplications of stacks and queues",
+            "Module 5: Trees and Binary Trees\n\nBinary tree representation and traversal\nBinary search tree and its operations\nTree traversal algorithms (inorder, preorder, postorder)",
+            "Module 6: Heaps and Priority Queues\n\nMin and max heaps\nHeap operations and algorithms\nPriority queues and their applications",
+            "Module 7: Hash Tables\n\nHashing techniques and collision resolution\nHash table implementation and operations\nHash table applications and analysis",
+            "Module 8: Graphs and Graph Algorithms\n\nGraph representation (adjacency matrix, adjacency list)\nGraph traversal algorithms (BFS, DFS)\nShortest path algorithms (Dijkstra's, Bellman-Ford)",
+            "Module 9: Sorting Algorithms\n\nComparison-based sorting algorithms (selection sort, insertion sort, bubble sort)\nEfficient sorting algorithms (merge sort, quicksort, heapsort)\nTime and space complexity analysis of sorting algorithms",
+            "Module 10: Searching Algorithms\n\nLinear search\nBinary search\nHash-based searching",
+            "Module 11: Algorithm Design Techniques\n\nDivide and conquer\nGreedy algorithms\nDynamic programming\nBacktracking",
+            "Module 12: Algorithm Analysis and Complexity\n\nBig O notation and time complexity analysis\nSpace complexity analysis\nBest, worst, and average case analysis",
+            "Module 13: Advanced Topics (Optional)\n\nAdvanced data structures (AVL trees, B-trees, etc.)\nAdvanced algorithms (graph algorithms, string matching, etc.)"
+        ],
+        "Tutors": "Mehaboob Basha, Tere Nagendra Babu, Dharma, Parth",
+        "Students": "30"
+    },
+    {
+        "domain": "Linux Administration",
+        "king": "https://res.cloudinary.com/dd6g64flm/image/upload/v1686832214/Machine_Learning__ML__2_tsfojp.jpg",
+        "title": "Linux Administration",
+        "img": "https://i.ytimg.com/vi/UCr04qIB7uc/maxresdefault.jpg",
+        "duration": "4-6 weeks",
+        "overview": "Become proficient in Linux system administration. Learn essential commands, manage users and permissions, automate tasks with scripting, and troubleshoot common issues in a Linux environment.",
+        "Training_program_benefits": [
+            "Proficiency in Linux system administration",
+            "Essential commands and tasks automation with scripting",
+            "User management, permissions, and troubleshooting",
+            "Live lectures with hands-on exercises",
+            "Quizzes for self-assessment",
+            "Certificate program"
+        ],
+        "Curriculum": [
+            "Module 1: Introduction to Linux Operating System\n\nOverview of Linux distributions\nUnderstanding Linux architecture\nBasic Linux commands and file system navigation",
+            "Module 2: User and Group Management\n\nCreating and managing user accounts\nConfiguring user privileges and permissions\nGroup management and permissions",
+            "Module 3: File System Management\n\nWorking with file permissions and ownership\nManaging files and directories\nDisk partitioning and file system types",
+            "Module 4: Process Management\n\nMonitoring and controlling processes\nManaging process priorities and signals\nProcess scheduling and resource utilization",
+            "Module 5: System Services and Startup Processes\n\nUnderstanding system services and daemons\nManaging services using systemd\nConfiguring startup processes and runlevels",
+            "Module 6: Network Configuration and Services\n\nConfiguring network interfaces\nSetting up IP addressing and routing\nManaging network services (DNS, DHCP, SSH)",
+            "Module 7: System Backup and Recovery\n\nBackup strategies and tools\nRestoring files and directories\nSystem recovery procedures",
+            "Module 8: System Security and Authentication\n\nUser authentication mechanisms (passwords, SSH keys)\nSecuring user accounts and access\nFirewall configuration and network security",
+            "Module 9: Package Management\n\nManaging software packages using package managers (apt, yum)\nDependency resolution and package repositories\nPackage installation, upgrade, and removal",
+            "Module 10: System Monitoring and Performance Optimization\n\nMonitoring system resources (CPU, memory, disk)\nPerformance tuning and optimization\nTroubleshooting common performance issues",
+            "Module 11: Shell Scripting Basics\n\nIntroduction to shell scripting (Bash)\nWriting and executing shell scripts\nAutomating tasks with scripts",
+            "Module 12: Linux Server Deployment (Optional)\n\nConfiguring Linux servers for specific purposes (web server, database server, etc.)\nWeb hosting setup and configuration"
+        ],
+        "Tutors": "Mehaboob Basha, Tere Nagendra Babu, Dharma, Parth",
+        "Students": "30"
+    },
+    {
+        "domain": "Operating Systems",
+        "king": "https://res.cloudinary.com/dd6g64flm/image/upload/v1686832214/Machine_Learning__ML__2_tsfojp.jpg",
+        "title": "Fundamentals of Operating Systems",
+        "img": "https://www.theschoolrun.com/sites/theschoolrun.com/files/article_images/hardware_software_and_operating_system.jpg",
+        "duration": "4-6 weeks",
+        "overview": "Gain a comprehensive understanding of operating systems. Explore process management, memory allocation, file systems, and security concepts to comprehend the core principles of modern operating systems.",
+        "Training_program_benefits": [
+            "Comprehensive understanding of operating systems",
+            "Process management, memory allocation, and file systems",
+            "Security concepts and principles",
+            "Live lectures with hands-on exercises",
+            "Quizzes for self-assessment",
+            "Certificate program"
+        ],
+        "Curriculum": [
+            "Module 1: Introduction to Operating Systems\n\nDefinition and purpose of an operating system\nEvolution and types of operating systems\nOverview of key operating system components",
+            "Module 2: Process Management\n\nProcess concepts and characteristics\nProcess states and scheduling algorithms\nInterprocess communication and synchronization",
+            "Module 3: Memory Management\n\nMemory hierarchy and virtual memory\nMemory allocation techniques\nPaging and segmentation",
+            "Module 4: File Systems and I/O Management\n\nFile system organization and structure\nFile operations and access methods\nDisk scheduling and I/O management",
+            "Module 5: Device Management\n\nDevice drivers and device management\nI/O control and interrupt handling\nDevice allocation and resource sharing",
+            "Module 6: CPU Scheduling\n\nScheduling algorithms and policies\nProcess scheduling metrics and evaluation\nMultilevel queue and priority scheduling",
+            "Module 7: Deadlocks\n\nDeadlock prevention, avoidance, and detection\nResource allocation and deadlock recovery",
+            "Module 8: Security and Protection\n\nSecurity threats and mechanisms\nAccess control and authentication\nUser authentication and file permissions",
+            "Module 9: Distributed Systems\n\nDistributed system concepts and architectures\nCommunication models and protocols\nDistributed file systems and synchronization",
+            "Module 10: Operating System Design and Implementation\n\nOperating system structure and components\nKernel architecture and system calls\nOperating system boot process",
+            "Module 11: Case Studies (Optional)\n\nAnalysis of real-world operating systems (e.g., Windows, Linux, macOS)\nComparison of different operating system designs and features"
+        ],
+        "Tutors": "Mehaboob Basha, Tere Nagendra Babu, Dharma, Parth",
+        "Students": "30"
+    },
+    {
+        "domain": "Data Analysis and Visualization",
+        "king": "https://res.cloudinary.com/dd6g64flm/image/upload/v1686832214/Machine_Learning__ML__2_tsfojp.jpg",
+        "title": "Python Libraries for Data Analysis",
+        "img": "https://pyoflife.com/wp-content/uploads/2023/03/Data-Analysis-and-Visualization-Using-Python-768x1024.jpeg",
+        "duration": "4-6 weeks",
+        "overview": "Master essential Python libraries for data analysis and visualization. Utilize Pandas and NumPy for data manipulation, and create stunning visualizations with Plotly, Bokeh, and Matplotlib.",
+        "Training_program_benefits": [
+            "Mastering essential Python libraries for data analysis",
+            "Data manipulation with Pandas and NumPy",
+            "Creating stunning visualizations with Plotly, Bokeh, and Matplotlib",
+            "Live lectures with hands-on exercises",
+            "Quizzes for self-assessment",
+            "Certificate program"
+        ],
+        "Curriculum": [
+            "Module 1: Introduction to Data Analysis and Visualization in Python\n\nOverview of Python as a data analysis and visualization tool\nImportance and applications of data analysis and visualization",
+            "Module 2: Introduction to Pandas\n\nData structures in Pandas (Series, DataFrame)\nLoading and manipulating data with Pandas\nData cleaning and preprocessing using Pandas",
+            "Module 3: NumPy for Numerical Computing\n\nIntroduction to NumPy arrays and multidimensional arrays\nMathematical computations and array manipulation using NumPy\nLinear algebra operations with NumPy",
+            "Module 4: Data Visualization with Matplotlib\n\nBasic plotting concepts and techniques\nLine plots, scatter plots, bar plots, and histograms\nCustomizing plots, adding annotations, and applying styles",
+            "Module 5: Interactive Visualizations with Plotly\n\nCreating interactive charts, graphs, and maps with Plotly\nCustomizing interactive elements and tooltips\nCreating dashboards and web-based visualizations",
+            "Module 6: Interactive Web-based Visualizations with Bokeh\n\nIntroduction to Bokeh and its key features\nBuilding interactive visualizations with Bokeh\nAdding interactivity, widgets, and interactions to plots",
+            "Module 7: Advanced Data Visualization Techniques\n\nGeospatial data visualization with GeoPandas and Folium\nNetwork visualization with NetworkX\nTime series visualization and plotting",
+            "Module 8: Data Analysis and Visualization Case Studies\n\nPractical examples and case studies applying the learned libraries\nExploratory data analysis and visualization workflows"
+        ],
+        "Tutors": "Mehaboob Basha, Tere Nagendra Babu, Dharma, Parth",
+        "Students": "30"
+    },
+    {
+        "domain": "Computer Vision",
+        "king": "https://res.cloudinary.com/dd6g64flm/image/upload/v1686832214/Machine_Learning__ML__2_tsfojp.jpg",
+        "title": "Computer Vision Fundamentals",
+        "img": "https://viso.ai/wp-content/uploads/2022/04/opencv-wallpaper.png",
+        "duration": "6-8 weeks",
+        "overview": "Enter the exciting world of computer vision. Learn image processing techniques, feature extraction, and deep learning algorithms to analyze and understand visual data.",
+        "Training_program_benefits": [
+            "Entering the exciting world of computer vision",
+            "Image processing techniques and feature extraction",
+            "Deep learning algorithms for visual data analysis",
+            "Live lectures with coding exercises",
+            "Quizzes for self-assessment",
+            "Certificate program"
+        ],
+        "Curriculum": [
+            "Module 1: Introduction to Computer Vision\n\nOverview of computer vision and its applications\nHistorical developments and current trends\nChallenges and limitations in computer vision",
+            "Module 2: Image Processing Techniques\n\nImage representation and manipulation\nImage enhancement and filtering\nImage transformations and geometric operations",
+            "Module 3: Image Feature Extraction\n\nIntroduction to image features and descriptors\nFeature extraction techniques (e.g., edge detection, corner detection)\nFeature matching and point correspondences",
+            "Module 4: Object Detection and Tracking\n\nObject detection algorithms (e.g., Haar cascades, HOG, R-CNN)\nObject tracking techniques (e.g., Kalman filter, optical flow)\nMultiple object detection and tracking",
+            "Module 5: Image Classification and Recognition\n\nIntroduction to image classification and recognition\nFeature-based classification algorithms (e.g., SVM, K-NN)\nDeep learning-based classification (e.g., Convolutional Neural Networks)",
+            "Module 6: Camera Calibration and 3D Vision\n\nCamera models and calibration techniques\nStereo vision and depth estimation\n3D reconstruction from multiple images",
+            "Module 7: Motion Analysis and Video Processing\n\nMotion detection and estimation\nVideo stabilization and object tracking in videos\nVideo summarization and activity recognition",
+            "Module 8: Deep Learning for Computer Vision\n\nOverview of deep learning architectures for computer vision (e.g., CNNs)\nTransfer learning and pre-trained models\nObject detection and image segmentation with deep learning",
+            "Module 9: Applications of Computer Vision\n\nFace detection and recognition\nObject recognition and image retrieval\nAugmented reality and virtual reality",
+            "Module 10: Case Studies and Projects\n\nPractical implementation of computer vision algorithms\nHands-on projects applying computer vision techniques to real-world problems"
+        ],
+        "Tutors": "Mehaboob Basha, Tere Nagendra Babu, Dharma, Parth",
+        "Students": "30"
+    },
+    {
+        "domain": "Natural Language Processing",
+        "king": "https://res.cloudinary.com/dd6g64flm/image/upload/v1686832214/Machine_Learning__ML__2_tsfojp.jpg",
+        "title": "NLP Fundamentals",
+        "img": "https://europe.naverlabs.com/wp-content/uploads/2021/03/NLP_ex_l.jpeg",
+        "duration": "6-8 weeks",
+        "overview": "Dive into natural language processing and understand human language with the help of computers. Explore text preprocessing, sentiment analysis, and language modeling to build powerful NLP applications.",
+        "Training_program_benefits": [
+            "Diving into natural language processing",
+            "Text preprocessing and sentiment analysis",
+            "Language modeling and text generation",
+            "Live lectures with coding exercises",
+            "Quizzes for self-assessment",
+            "Certificate program"
+        ],
+        "Curriculum": [
+            "Module 1: Introduction to Natural Language Processing\n\nOverview of NLP and its applications\nChallenges and complexities in processing human language\nNLP pipeline and key components",
+            "Module 2: Text Preprocessing\n\nTokenization and text segmentation\nStop word removal and stemming\nPart-of-speech tagging and syntactic parsing",
+            "Module 3: Language Modeling and Text Representation\n\nN-gram models and language modeling\nVector space models and word embeddings\nWord2Vec and GloVe models",
+            "Module 4: Sentiment Analysis\n\nIntroduction to sentiment analysis\nSentiment classification techniques (e.g., Naive Bayes, SVM, neural networks)\nAspect-based sentiment analysis",
+            "Module 5: Named Entity Recognition\n\nNamed entity recognition (NER) task\nNER approaches and algorithms\nEntity linking and disambiguation",
+            "Module 6: Text Classification and Topic Modeling\n\nText classification algorithms (e.g., Naive Bayes, SVM, neural networks)\nTopic modeling techniques (e.g., LDA, LSA)\nDocument clustering and classification",
+            "Module 7: Text Summarization and Generation\n\nExtractive and abstractive text summarization\nText generation techniques (e.g., Markov chains, recurrent neural networks)\nSummarization evaluation metrics",
+            "Module 8: Machine Translation and Language Generation\n\nMachine translation models and techniques\nNeural machine translation and sequence-to-sequence models\nLanguage generation and dialogue systems",
+            "Module 9: Advanced NLP Techniques\n\nNamed entity disambiguation and resolution\nDependency parsing and syntactic analysis\nCoreference resolution and co-reference chains",
+            "Module 10: NLP Applications and Future Trends\n\nQuestion answering systems\nSentiment analysis in social media\nMultilingual and cross-lingual NLP",
+            "Module 11: Case Studies and Projects\n\nPractical implementation of NLP techniques and algorithms\nHands-on projects applying NLP to real-world text data"
+        ],
+        "Tutors": "Mehaboob Basha, Tere Nagendra Babu, Dharma, Parth",
+        "Students": "30"
+    },
+    {
+        "domain": "Image Processing",
+        "king": "https://res.cloudinary.com/dd6g64flm/image/upload/v1686832214/Machine_Learning__ML__2_tsfojp.jpg",
+        "title": "Image Processing and Computer Vision",
+        "img": "https://www.i2tutorials.com/wp-content/media/2020/08/Image-Processing-Using-OpenCV-and-Python.jpg",
+        "duration": "6-8 weeks",
+        "overview": "Discover the techniques to process and analyze digital images. Gain insights into image enhancement, object recognition, and pattern recognition using computer vision algorithms.",
+        "Training_program_benefits": [
+            "Techniques for processing and analyzing digital images",
+            "Image enhancement, object recognition, and pattern recognition",
+            "Computer vision algorithms for visual data interpretation",
+            "Live lectures with coding exercises",
+            "Quizzes for self-assessment",
+            "Certificate program"
+        ],
+        "Curriculum": [
+            "Module 1: Introduction to Image Processing and Computer Vision\n\nOverview of image processing and computer vision\nImage representation and digital image fundamentals\nApplications and significance of image processing and computer vision",
+            "Module 2: Image Enhancement and Restoration\n\nHistogram equalization and contrast enhancement\nNoise reduction techniques (e.g., Gaussian, median filtering)\nImage denoising and restoration algorithms",
+            "Module 3: Image Filtering and Edge Detection\n\nConvolution and filtering operations\nLinear and nonlinear filters (e.g., Gaussian, Sobel)\nEdge detection techniques (e.g., Canny edge detection)",
+            "Module 4: Image Segmentation\n\nThresholding and region-based segmentation\nEdge-based segmentation and contour detection\nClustering algorithms for image segmentation",
+            "Module 5: Feature Extraction and Representation\n\nLocal feature descriptors (e.g., SIFT, SURF)\nScale-invariant feature transform (SIFT)\nFeature matching and image registration",
+            "Module 6: Object Detection and Recognition\n\nHaar cascades and object detection techniques\nFeature-based object recognition algorithms\nDeep learning-based object detection (e.g., Faster R-CNN, YOLO)",
+            "Module 7: Motion Analysis and Tracking\n\nOptical flow and motion estimation\nObject tracking algorithms (e.g., Kalman filter, MeanShift)\nMultiple object tracking and trajectory analysis",
+            "Module 8: 3D Vision and Stereo Imaging\n\nDepth perception and stereo imaging principles\nStereo correspondence and disparity estimation\n3D reconstruction from multiple images",
+            "Module 9: Deep Learning for Computer Vision\n\nConvolutional Neural Networks (CNNs) for image classification\nTransfer learning and pre-trained CNN models\nDeep learning-based image segmentation and object detection",
+            "Module 10: Image and Video Understanding\n\nImage understanding and scene understanding\nVideo analysis and activity recognition\nVideo-based surveillance systems",
+            "Module 11: Case Studies and Projects\n\nPractical implementation of image processing and computer vision algorithms\nHands-on projects applying computer vision techniques to real-world scenarios"
+        ],
+        "Tutors": "Mehaboob Basha, Tere Nagendra Babu, Dharma, Parth",
+        "Students": "30"
+    },
+    {
+        "domain": "Internet of Things",
+        "king": "https://res.cloudinary.com/dd6g64flm/image/upload/v1686832214/Machine_Learning__ML__2_tsfojp.jpg",
+        "title": "Time Series and IoT Data Analytics",
+        "img": "https://mtaindia.org/img/iot.jpg",
+        "duration": "4-6 weeks",
+        "overview": "Learn the art of analyzing time series and IoT data. Explore methods for forecasting, anomaly detection, and extracting valuable insights from time-dependent data in various IoT applications.",
+        "Training_program_benefits": [
+            "Art of analyzing time series and IoT data",
+            "Forecasting, anomaly detection, and insights extraction",
+            "Applications in various IoT domains",
+            "Live lectures with coding exercises",
+            "Quizzes for self-assessment",
+            "Certificate program"
+        ],
+        "Curriculum": [
+            "Module 1: Introduction to Time Series Data and IoT Analytics\n\nOverview of time series data and its characteristics\nIntroduction to IoT data and its challenges\nApplications and importance of time series and IoT analytics",
+            "Module 2: Time Series Visualization and Exploratory Data Analysis\n\nPlotting time series data and trends\nSeasonality and periodicity analysis\nData decomposition and trend identification",
+            "Module 3: Time Series Forecasting\n\nForecasting techniques (e.g., ARIMA, exponential smoothing)\nLong Short-Term Memory (LSTM) for time series forecasting\nEvaluating forecast accuracy and performance",
+            "Module 4: Time Series Anomaly Detection\n\nStatistical methods for anomaly detection (e.g., Z-score, Mahalanobis distance)\nMachine learning-based anomaly detection algorithms\nHandling anomalies in time series data",
+            "Module 5: IoT Data Integration and Preprocessing\n\nHandling and preprocessing IoT sensor data\nData alignment and synchronization\nDealing with missing values and outliers",
+            "Module 6: Feature Extraction and Selection for IoT Data\n\nExtracting meaningful features from IoT data\nDimensionality reduction techniques\nFeature selection methods for IoT analytics",
+            "Module 7: Predictive Analytics for IoT Data\n\nBuilding predictive models for IoT data\nRegression and classification algorithms for IoT analytics\nModel evaluation and performance metrics",
+            "Module 8: Real-Time Analytics for IoT Data Streams\n\nStream processing techniques for real-time analytics\nHandling high-velocity IoT data streams\nReal-time anomaly detection and prediction",
+            "Module 9: IoT Data Visualization and Dashboards\n\nCreating interactive visualizations for IoT data\nDesigning dashboards for real-time monitoring\nCommunicating insights effectively through visualizations",
+            "Module 10: Case Studies and Projects\n\nPractical implementation of time series and IoT analytics\nHands-on projects applying analytics techniques to IoT datasets"
+        ],
+        "Tutors": "Mehaboob Basha, Tere Nagendra Babu, Dharma, Parth",
+        "Students": "30"
+    },
+    {
+        "domain": "Github",
+        "king": "https://res.cloudinary.com/dd6g64flm/image/upload/v1686832214/Machine_Learning__ML__2_tsfojp.jpg",
+        "title": "GitHub and CI/CD Pipelines",
+        "img": "data:image/png;base64,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",
+        "duration": "2-4 weeks",
+        "overview": "Learn industry best practices for software development. Utilize Git for version control, set up CI/CD pipelines for automated testing and deployment, and streamline the development process.",
+        "Training_program_benefits": [
+            "Industry best practices for software development",
+            "Version control with Git",
+            "CI/CD pipelines for automated testing and deployment",
+            "Streamlining the development process",
+            "Live lectures with hands-on exercises",
+            "Quizzes for self-assessment",
+            "Certificate program"
+        ],
+        "Curriculum": [
+            "Module 1: Introduction to GitHub\n\nOverview of version control systems and Git\nSetting up a GitHub repository and configuring access controls\nBranching, merging, and resolving conflicts in Git",
+            "Module 2: Collaborative Development with GitHub\n\nCollaborating with team members using GitHub\nPull requests and code reviews\nGitHub workflows and issue tracking",
+            "Module 3: Introduction to CI/CD Pipelines\n\nUnderstanding the CI/CD pipeline concept\nBenefits of automated software delivery\nCI/CD tools and platforms",
+            "Module 4: Building and Testing Automation\n\nSetting up build automation with build tools (e.g., Maven, Gradle)\nUnit testing and test automation frameworks\nIntegrating code quality checks and static analysis tools",
+            "Module 5: Continuous Integration (CI) with GitHub Actions\n\nIntroduction to GitHub Actions for CI\nDefining workflows for build and test automation\nTriggering workflows on code changes and pull requests",
+            "Module 6: Continuous Deployment (CD) with CI/CD Pipelines\n\nIntroduction to CD and deployment strategies\nAutomating deployment with CI/CD pipelines\nIntegration with deployment platforms (e.g., AWS, Azure, Docker)",
+            "Module 7: Infrastructure as Code (IaC) and Configuration Management\n\nInfrastructure as Code principles and tools (e.g., Terraform)\nConfiguration management tools (e.g., Ansible)\nProvisioning and managing development and production environments",
+            "Module 8: Monitoring and Error Tracking\n\nImplementing monitoring and logging solutions\nError tracking and alerting mechanisms\nUsing monitoring data to optimize the CI/CD pipeline",
+            "Module 9: Security and Compliance in CI/CD\n\nIncorporating security practices in the CI/CD pipeline\nVulnerability scanning and code analysis\nCompliance considerations and best practices",
+            "Module 10: CI/CD Pipeline Orchestration and Optimization\n\nPipeline orchestration tools (e.g., Jenkins, GitLab CI/CD)\nOptimizing the CI/CD pipeline for speed and efficiency\nImplementing parallelization and caching strategies",
+            "Module 11: Case Studies and Projects\n\nHands-on projects implementing GitHub workflows and CI/CD pipelines\nReal-world case studies showcasing industrial software development practices"
+        ],
+        "Tutors": "Mehaboob Basha, Tere Nagendra Babu, Dharma, Parth",
+        "Students": "30"
+    },
+    {
+        "domain": "Database Management Systems",
+        "king": "https://res.cloudinary.com/dd6g64flm/image/upload/v1686832214/Machine_Learning__ML__2_tsfojp.jpg",
+        "title": "DBMS (Oracle & MySQL)",
+        "img": "data:image/jpeg;base64,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",
+        "duration": "6-8 weeks",
+        "overview": "Master the fundamentals of database management systems. Learn SQL programming, data modeling, and gain hands-on experience with Oracle and MySQL databases.",
+        "Training_program_benefits": [
+            "Fundamentals of database management systems",
+            "SQL programming and data modeling",
+            "Hands-on experience with Oracle and MySQL databases",
+            "Live lectures with hands-on exercises",
+            "Quizzes for self-assessment",
+            "Certificate program"
+        ],
+        "Curriculum": [
+            "Module 1: Introduction to DBMS and Relational Databases\n\nOverview of database management systems\nRelational model and relational database concepts\nDatabase design principles and normalization",
+            "Module 2: SQL Programming and Data Manipulation\n\nStructured Query Language (SQL) fundamentals\nQuerying and retrieving data from databases\nData manipulation and update operations",
+            "Module 3: Data Modeling and Entity-Relationship Diagrams\n\nConceptual data modeling using Entity-Relationship (ER) diagrams\nMapping ER diagrams to relational schemas\nNormalization and denormalization techniques",
+            "Module 4: Advanced SQL Queries and Joins\n\nComplex SQL queries and subqueries\nAggregate functions and grouping data\nInner and outer joins for data retrieval",
+            "Module 5: Database Indexing and Query Optimization\n\nIndexing concepts and types\nQuery optimization techniques\nPerformance tuning and execution plans",
+            "Module 6: Transaction Management and Concurrency Control\n\nACID properties of database transactions\nConcurrency control and locking mechanisms\nIsolation levels and transaction management strategies",
+            "Module 7: Database Administration and Security\n\nDatabase administration tasks and responsibilities\nUser and access management\nBackup and recovery techniques",
+            "Module 8: Oracle Database Management\n\nIntroduction to Oracle Database\nOracle data types and objects\nOracle SQL and PL/SQL programming",
+            "Module 9: MySQL Database Management\n\nIntroduction to MySQL Database\nMySQL data types and storage engines\nMySQL SQL and stored procedures",
+            "Module 10: Database Connectivity and Application Development\n\nConnecting databases with programming languages (e.g., Python, Java)\nDatabase APIs and drivers\nDeveloping database-driven applications",
+            "Module 11: Case Studies and Projects\n\nHands-on projects and exercises using Oracle and MySQL databases\nReal-world case studies demonstrating practical database management scenarios"
+        ],
+        "Tutors": "Mehaboob Basha, Tere Nagendra Babu, Dharma, Parth",
+        "Students": "30"
+    },
+    {
+        "domain": "MongoDB and Firebase",
+        "king": "https://res.cloudinary.com/dd6g64flm/image/upload/v1686832214/Machine_Learning__ML__2_tsfojp.jpg",
+        "title": "MongoDB and Firebase",
+        "img": "https://www.estuary.dev/static/42418b17bfdb3ab575a5b75a5be714cb/bb8ee/firebase_vs_mongodb_bebc863e05.png",
+        "duration": "4-6 weeks",
+        "overview": "Explore modern NoSQL databases like MongoDB and Firebase. Learn to model data, perform CRUD operations, and integrate these databases into your applications for scalability and real-time capabilities.",
+        "Training_program_benefits": [
+            "Exploring modern NoSQL databases like MongoDB and Firebase",
+            "Data modeling and CRUD operations",
+            "Integration into applications for scalability and real-time capabilities",
+            "Live lectures with hands-on exercises",
+            "Quizzes for self-assessment",
+            "Certificate program"
+        ],
+        "Curriculum": [
+            "Module 1: Introduction to NoSQL Databases and MongoDB\n\nOverview of NoSQL databases and their advantages\nIntroduction to MongoDB and its features\nDocument-oriented data model and BSON",
+            "Module 2: MongoDB Data Modeling and CRUD Operations\n\nDesigning data models for MongoDB collections\nInserting, updating, and deleting documents\nQuerying and retrieving data using MongoDB queries",
+            "Module 3: Advanced MongoDB Queries and Aggregation Framework\n\nComplex queries and query optimization\nAggregation pipeline for advanced data processing\nIndexing strategies for improved query performance",
+            "Module 4: MongoDB and Node.js Integration\n\nConnecting MongoDB with Node.js applications\nUsing MongoDB drivers and libraries for Node.js\nBuilding RESTful APIs with MongoDB and Node.js",
+            "Module 5: Introduction to Firebase and Real-Time Database\n\nOverview of Firebase and its features\nReal-Time data synchronization with Firebase\nManaging data with Firebase Real-Time Database",
+            "Module 6: Firebase Authentication and User Management\n\nUser authentication and authorization with Firebase\nIntegrating Firebase Authentication into applications\nManaging user accounts and permissions",
+            "Module 7: Firebase Cloud Firestore and Data Modeling\n\nIntroduction to Firebase Cloud Firestore\nStructuring data in Firestore collections and documents\nQuerying and retrieving data from Firestore",
+            "Module 8: Firebase Cloud Functions and Serverless Computing\n\nIntroduction to Firebase Cloud Functions\nImplementing serverless functions with Firebase\nIntegrating functions with database operations",
+            "Module 9: Firebase Cloud Storage and File Management\n\nStoring and retrieving files with Firebase Cloud Storage\nUploading and downloading files in Firebase\nManaging file metadata and access permissions",
+            "Module 10: Firebase Hosting and Deployment\n\nHosting web applications with Firebase Hosting\nDeploying Firebase applications to the cloud\nConfiguring custom domains and SSL certificates",
+            "Module 11: Case Studies and Projects\n\nHands-on projects and exercises using MongoDB and Firebase\nReal-world case studies showcasing practical data management scenarios"
+        ],
+        "Tutors": "Mehaboob Basha, Tere Nagendra Babu, Dharma, Parth",
+        "Students": "30"
+    }
+]

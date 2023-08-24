@@ -1,0 +1,1211 @@
+[
+    {
+        "course_title": "Python Programming Fundamentals",
+        "course_img": "../src/assets/courses-images/Python_Programming_1.png",
+        "course_summary": "This Python programming course is designed to provide a comprehensive introduction to the fundamentals of Python programming. Whether you are a beginner with no prior coding experience or an experienced programmer looking to expand your skills, this course will equip you with the knowledge and hands-on practice needed to start coding in Python confidently.",
+        "course_short_description": "Learn the fundamentals of Python programming language. Master the syntax, data types, control flow, and object-oriented programming concepts to build powerful and efficient applications.",
+        "course_content": [
+            {
+                "module_number": 1,
+                "module_title": "Introduction to Python",
+                "module_topics": [
+                    "Overview of Python and its features",
+                    "Setting up the Python development environment",
+                    "Running Python scripts and interactive sessions",
+                    "Understanding variables, data types, and basic operations"
+                ]
+            },
+            {
+                "module_number": 2,
+                "module_title": "Control Flow and Decision Making",
+                "module_topics": [
+                    "Working with conditional statements (if, else, elif)",
+                    "Implementing loops (for, while) for repetitive tasks",
+                    "Controlling loop execution with break and continue statements",
+                    "Understanding logical operators for decision making"
+                ]
+            },
+            {
+                "module_number": 3,
+                "module_title": "Data Structures",
+                "module_topics": [
+                    "Working with lists, tuples, and dictionaries",
+                    "Accessing, modifying, and manipulating data within data structures",
+                    "Exploring built-in functions and methods for data structure operations",
+                    "Understanding the concept of mutability and immutability"
+                ]
+            },
+            {
+                "module_number": 4,
+                "module_title": "Functions and Modules",
+                "module_topics": [
+                    "Defining and calling functions in Python",
+                    "Passing arguments to functions and returning values",
+                    "Utilizing parameters and default arguments",
+                    "Organizing code into modules for reusability"
+                ]
+            },
+            {
+                "module_number": 5,
+                "module_title": "File Handling and Input/Output Operations",
+                "module_topics": [
+                    "Reading and writing data to files",
+                    "Handling file pointers and managing file resources",
+                    "Parsing and processing data from files",
+                    "Understanding file modes and exceptions"
+                ]
+            },
+            {
+                "module_number": 6,
+                "module_title": "Exception Handling",
+                "module_topics": [
+                    "Understanding exceptions and error handling",
+                    "Using try-except blocks to handle and recover from errors",
+                    "Catching specific exceptions and handling multiple exceptions",
+                    "Finally block and clean-up operations"
+                ]
+            },
+            {
+                "module_number": 7,
+                "module_title": "Introduction to Object-Oriented Programming (OOP)",
+                "module_topics": [
+                    "Basics of OOP and its benefits",
+                    "Defining classes, objects, and attributes",
+                    "Implementing methods and encapsulation",
+                    "Understanding inheritance and polymorphism"
+                ]
+            },
+            {
+                "module_number": 8,
+                "module_title": "Introduction to Python Libraries and Modules",
+                "module_topics": [
+                    "Exploring commonly used Python libraries (e.g., NumPy, Pandas, Matplotlib)",
+                    "Installing and importing external modules",
+                    "Leveraging libraries for data analysis, visualization, and more",
+                    "Overview of popular Python frameworks and their applications"
+                ]
+            },
+            {
+                "module_number": 9,
+                "module_title": "Introduction to Python Projects",
+                "module_topics": [
+                    "Applying Python skills to complete small projects",
+                    "Enhancing problem-solving abilities through hands-on coding challenges",
+                    "Working with real-world examples and case studies",
+                    "Practicing coding best practices and efficient programming techniques"
+                ]
+            }
+        ],
+        "course_objectives": "By the end of this Python programming course, you will have gained a solid foundation in Python programming concepts and syntax. You will be able to write Python code to solve problems, create applications, and work with data. Whether your goal is to pursue a career in programming or simply expand your coding capabilities, this course will provide you with the skills and confidence to excel in Python development."
+    },
+    {
+        "course_title": "Machine Learning Fundamentals",
+        "course_img": "../src/assets/courses-images/Machine_Learning_(ML)_1.jpeg",
+        "course_summary": "The Machine Learning Fundamentals course is designed to provide a comprehensive introduction to the field of machine learning. In this course, you will learn the foundational concepts, techniques, and practical applications of machine learning. Whether you are a beginner with no prior experience or an experienced practitioner looking to enhance your skills, this course will equip you with the knowledge and hands-on experience needed to understand and apply machine learning algorithms effectively.",
+        "course_short_description": "Explore the exciting field of machine learning. Gain hands-on experience with popular algorithms and techniques to train models that can make predictions and decisions based on data.",
+        "course_content": [
+            {
+                "module_number": 1,
+                "module_title": "Introduction to Machine Learning",
+                "module_topics": [
+                    "Understanding the basics of machine learning and its applications",
+                    "Differentiating between supervised, unsupervised, and reinforcement learning",
+                    "Exploring real-world examples and case studies of machine learning"
+                ]
+            },
+            {
+                "module_number": 2,
+                "module_title": "Data Pre-processing and Exploratory Data Analysis (EDA)",
+                "module_topics": [
+                    "Cleaning and pre-processing raw data for machine learning",
+                    "Handling missing data and outliers",
+                    "Visualizing and analyzing data using statistical techniques",
+                    "Feature scaling and normalization"
+                ]
+            },
+            {
+                "module_number": 3,
+                "module_title": "Supervised Learning Algorithms",
+                "module_topics": [
+                    "Linear regression and logistic regression for regression and classification tasks",
+                    "Decision trees and random forests for classification and regression",
+                    "Support Vector Machines (SVM) for binary and multi-class classification",
+                    "Evaluating model performance using metrics like accuracy, precision, recall, and F1-score"
+                ]
+            },
+            {
+                "module_number": 4,
+                "module_title": "Unsupervised Learning Algorithms",
+                "module_topics": [
+                    "K-means clustering for grouping similar data points",
+                    "Hierarchical clustering for creating clusters based on data structure",
+                    "Dimensionality reduction techniques such as Principal Component Analysis (PCA)",
+                    "Evaluating clustering algorithms using metrics like silhouette score and inertia"
+                ]
+            },
+            {
+                "module_number": 5,
+                "module_title": "Evaluation and Model Selection",
+                "module_topics": [
+                    "Cross-validation techniques for estimating model performance",
+                    "Overfitting, underfitting, and regularization techniques",
+                    "Hyperparameter tuning for optimizing model performance",
+                    "Comparing and selecting the best-performing models"
+                ]
+            },
+            {
+                "module_number": 6,
+                "module_title": "Neural Networks and Deep Learning",
+                "module_topics": [
+                    "Understanding the basics of artificial neural networks (ANN)",
+                    "Activation functions, backpropagation, and gradient descent",
+                    "Building and training deep learning models with TensorFlow or PyTorch",
+                    "Convolutional Neural Networks (CNN) for image recognition and processing"
+                ]
+            },
+            {
+                "module_number": 7,
+                "module_title": "Natural Language Processing (NLP)",
+                "module_topics": [
+                    "Basics of text pre-processing and feature extraction",
+                    "Building text classification models using techniques like bag-of-words and TF-IDF",
+                    "Sentiment analysis and text generation using recurrent neural networks (RNN)"
+                ]
+            },
+            {
+                "module_number": 8,
+                "module_title": "Recommender Systems",
+                "module_topics": [
+                    "Collaborative filtering and content-based recommendation approaches",
+                    "Implementing recommendation algorithms such as matrix factorization and item-based filtering",
+                    "Evaluating recommendation systems using metrics like precision and recall"
+                ]
+            },
+            {
+                "module_number": 9,
+                "module_title": "Deployment and Model Interpretability",
+                "module_topics": [
+                    "Converting machine learning models into production-ready formats",
+                    "Deploying models as web services or APIs",
+                    "Model interpretability techniques to understand and explain model predictions",
+                    "Ethical considerations and bias in machine learning algorithms"
+                ]
+            }
+        ],
+        "course_objectives": "Throughout the course, you will have hands-on prac8ce with real-world datasets and use popular machine learning libraries such as scikit-learn, TensorFlow, or PyTorch. By the end of this course, you will have gained a solid founda8on in machine learning techniques and be able to apply them to various domains and problems. Whether you are interested in data analysis, predic8ve modelling, or building intelligent systems, this course will provide you with the skills and knowledge to excel in the field of machine learning."
+    },
+    {
+        "course_title": "Data Science Fundamentals",
+        "course_img": "../src/assets/courses-images/Data_Science_1.png",
+        "course_summary": "The Data Science Fundamentals course is designed to provide a comprehensive introduction to the field of data science. In this course, you will learn the essential concepts, techniques, and tools used in data science to extract valuable insights from data. Whether you are a beginner with no prior experience or an experienced analyst looking to expand your skills, this course will equip you with the knowledge and hands-on experience needed to succeed in the world of data science.",
+        "course_short_description": "Dive into the world of data science and learn the essential skills to extract insights from data. Discover data cleaning, visualization, statistical analysis, and machine learning to solve real-world problems.",
+        "course_content": [
+            {
+                "module_number": 1,
+                "module_title": "Introduction to Data Science",
+                "module_topics": [
+                    "Understanding the role and significance of data science in various industries",
+                    "Exploring the data science lifecycle and the different stages involved",
+                    "Overview of data science tools, technologies, and job roles in the industry"
+                ]
+            },
+            {
+                "module_number": 2,
+                "module_title": "Data Collection and Cleaning",
+                "module_topics": [
+                    "Gathering and extracting data from various sources (APIs, databases, web scraping)",
+                    "Handling missing data, outliers, and data inconsistencies",
+                    "Cleaning and transforming data for analysis and modeling"
+                ]
+            },
+            {
+                "module_number": 3,
+                "module_title": "Exploratory Data Analysis (EDA)",
+                "module_topics": [
+                    "Summarizing and visualizing data using descriptive statistics and data visualization techniques",
+                    "Identifying patterns, trends, and relationships in data",
+                    "Conducting statistical analysis and hypothesis testing"
+                ]
+            },
+            {
+                "module_number": 4,
+                "module_title": "Data Visualization",
+                "module_topics": [
+                    "Creating compelling visualizations to effectively communicate data insights",
+                    "Choosing appropriate charts, graphs, and visualization libraries",
+                    "Enhancing visualizations with interactivity and storytelling elements"
+                ]
+            },
+            {
+                "module_number": 5,
+                "module_title": "Statistical Analysis",
+                "module_topics": [
+                    "Applying statistical techniques for data analysis and inference",
+                    "Understanding probability distributions, hypothesis testing, and statistical significance",
+                    "Performing correlation analysis and regression modeling"
+                ]
+            },
+            {
+                "module_number": 6,
+                "module_title": "Machine Learning",
+                "module_topics": [
+                    "Introduction to supervised, unsupervised, and semi-supervised learning",
+                    "Regression, classification, and clustering algorithms",
+                    "Model evaluation, selection, and hyperparameter tuning",
+                    "Handling imbalanced datasets and performing feature selection"
+                ]
+            },
+            {
+                "module_number": 7,
+                "module_title": "Big Data and Distributed Computing",
+                "module_topics": [
+                    "Handling large-scale datasets using distributed computing frameworks (e.g., Hadoop, Spark)",
+                    "Exploring data processing and analysis with tools like MapReduce and Spark",
+                    "Applying machine learning algorithms to big data using scalable techniques"
+                ]
+            },
+            {
+                "module_number": 8,
+                "module_title": "Natural Language Processing (NLP)",
+                "module_topics": [
+                    "Processing and analyzing text data using NLP techniques",
+                    "Text pre-processing, tokenization, and sentiment analysis",
+                    "Building text classification and language generation models"
+                ]
+            },
+            {
+                "module_number": 9,
+                "module_title": "Data Science Ethics and Privacy",
+                "module_topics": [
+                    "Understanding ethical considerations and biases in data science",
+                    "Privacy concerns, data anonymization, and security",
+                    "Responsible and fair use of data in the context of data science projects"
+                ]
+            },
+            {
+                "module_number": 10,
+                "module_title": "Capstone Project",
+                "module_topics": [
+                    "Applying data science techniques and methodologies to solve a real-world problem",
+                    "Designing and executing a data science project from end to end",
+                    "Presenting findings and insights through data visualizations and reports"
+                ]
+            }
+        ],
+        "course_objectives": "Throughout the course, you will work on hands-on projects and exercises, using popular data science libraries and tools such as Python, pandas, NumPy, sci-kit-learn, and Jupyter Notebook. By the end of this course, you will have gained a strong foundation in data science concepts, techniques, and best practices. You will be well-prepared to tackle data-driven challenges, analyze complex datasets, and derive meaningful insights to support decision-making in various domains."
+    },
+    {
+        "course_title": "Linear Algebra for Machine Learning",
+        "course_img": "../src/assets/courses-images/Linear_Algebra_for_Machine_Learning_1.png",
+        "course_summary": "The Linear Algebra for Machine Learning course is designed to provide a solid foundation in linear algebra concepts and techniques specifically tailored for machine learning applications. In this course, you will learn the mathematical principles behind key machine learning algorithms and gain a deeper understanding of how linear algebra plays a vital role in data analysis, feature engineering, and model optimization. Whether you are a beginner with limited mathematical background or an experienced practitioner looking to refresh your knowledge, this course will equip you with the essential linear algebra skills needed to excel in machine learning.",
+        "course_short_description": "Develop a solid foundation in linear algebra, a fundamental mathematical framework for machine learning. Understand vectors, matrices, eigenvalues, and their applications in solving ML problems.",
+        "course_content": [
+            {
+                "module_number": 1,
+                "module_title": "Introduction to Linear Algebra",
+                "module_topics": [
+                    "Understanding vectors, matrices, and tensors",
+                    "Basic operations on vectors and matrices (addition, subtraction, multiplication)",
+                    "Matrix transposition, inverse, and determinant",
+                    "Solving systems of linear equations"
+                ]
+            },
+            {
+                "module_number": 2,
+                "module_title": "Vector Spaces and Subspaces",
+                "module_topics": [
+                    "Defining vector spaces and subspaces",
+                    "Linear dependence and independence of vectors",
+                    "Basis and dimension of a vector space",
+                    "Span and linear combinations"
+                ]
+            },
+            {
+                "module_number": 3,
+                "module_title": "Matrix Operations and Transformations",
+                "module_topics": [
+                    "Matrix multiplication and properties",
+                    "Matrix rank and null space",
+                    "Orthogonal matrices and their applications",
+                    "Eigenvalues and eigenvectors"
+                ]
+            },
+            {
+                "module_number": 4,
+                "module_title": "Linear Transformations and Projections",
+                "module_topics": [
+                    "Understanding linear transformations and their geometric interpretation",
+                    "Projection matrices and their role in machine learning",
+                    "Orthogonal projections and least squares regression",
+                    "Principal Component Analysis (PCA) and dimensionality reduction"
+                ]
+            },
+            {
+                "module_number": 5,
+                "module_title": "Matrix Decompositions",
+                "module_topics": [
+                    "LU decomposition and its applications",
+                    "QR decomposition for solving least squares problems",
+                    "Singular Value Decomposition (SVD) and its applications",
+                    "Eigen decomposition and spectral theorem"
+                ]
+            },
+            {
+                "module_number": 6,
+                "module_title": "Optimization and Gradient Descent",
+                "module_topics": [
+                    "Introduction to optimization problems in machine learning",
+                    "Gradient descent algorithm and its variants",
+                    "Vector and matrix derivatives for optimization",
+                    "Solving constrained optimization problems"
+                ]
+            },
+            {
+                "module_number": 7,
+                "module_title": "Applications of Linear Algebra in Machine Learning",
+                "module_topics": [
+                    "Linear regression and its relationship to linear algebra",
+                    "Support Vector Machines (SVM) and kernel methods",
+                    "Principal Component Analysis (PCA) for dimensionality reduction",
+                    "Recommender systems and collaborative filtering"
+                ]
+            }
+        ],
+        "course_objectives": "Throughout the course, you will work on practical exercises and coding examples using Python and libraries such as NumPy and SciPy to apply the linear algebra concepts in machine learning contexts. By the end of this course, you will have a solid understanding of linear algebra concepts and techniques, enabling you to effectively comprehend, implement, and optimize machine learning algorithms. You will be well-prepared to tackle complex machine learning problems and analyze data in a mathematically rigorous manner."
+    },
+    {
+        "course_title": "Statistics Fundamentals",
+        "course_img": "../src/assets/courses-images/Statistics_1.jpeg",
+        "course_summary": "The Statistics Fundamentals course provides a comprehensive introduction to statistical concepts and techniques. In this course, you will learn the fundamental principles of statistics and how to apply them to analyze data, make informed decisions, and draw meaningful insights. Whether you are a beginner with no prior statistical knowledge or an experienced practitioner seeking to enhance your statistical skills, this course will equip you with the necessary tools to understand and interpret data effectively.",
+        "course_short_description": "Unlock the power of statistics for data analysis. Learn essential concepts like probability, hypothesis testing, regression analysis, and experimental design to make data-driven decisions.",
+        "course_content": [
+            {
+                "module_number": 1,
+                "module_title": "Introduction to Statistics",
+                "module_topics": [
+                    "Understanding the importance of statistics in data analysis and decision-making",
+                    "Differentiating between descriptive and inferential statistics",
+                    "Exploring the basic statistical terminologies and concepts"
+                ]
+            },
+            {
+                "module_number": 2,
+                "module_title": "Data Types and Measurement Scales",
+                "module_topics": [
+                    "Identifying different types of data (categorical, numerical)",
+                    "Understanding measurement scales (nominal, ordinal, interval, ratio)",
+                    "Handling data transformation and normalization"
+                ]
+            },
+            {
+                "module_number": 3,
+                "module_title": "Descriptive Statistics",
+                "module_topics": [
+                    "Summarizing and visualizing data using measures of central tendency (mean, median, mode)",
+                    "Interpreting variability and dispersion using measures of spread (variance, standard deviation)",
+                    "Constructing graphical representations (histograms, box plots, scatter plots)"
+                ]
+            },
+            {
+                "module_number": 4,
+                "module_title": "Probability Theory",
+                "module_topics": [
+                    "Understanding the concept of probability and its applications",
+                    "Computation of probability using counting principles and probability rules",
+                    "Calculating conditional probability and independence",
+                    "Exploring probability distributions (discrete and continuous)"
+                ]
+            },
+            {
+                "module_number": 5,
+                "module_title": "Sampling and Sampling Distributions",
+                "module_topics": [
+                    "Sampling techniques and their implications for statistical inference",
+                    "Central Limit Theorem and its role in constructing sampling distributions",
+                    "Estimating population parameters using sample statistics",
+                    "Confidence intervals and margin of error"
+                ]
+            },
+            {
+                "module_number": 6,
+                "module_title": "Hypothesis Testing",
+                "module_topics": [
+                    "Formulating null and alternative hypotheses",
+                    "Conducting hypothesis tests using significance levels and p-values",
+                    "One-sample, two-sample, and paired-sample tests",
+                    "Interpreting test results and making decisions based on hypothesis tests"
+                ]
+            },
+            {
+                "module_number": 7,
+                "module_title": "Analysis of Variance (ANOVA)",
+                "module_topics": [
+                    "Comparing means across multiple groups using ANOVA",
+                    "Understanding the F-statistic, p-value, and post-hoc tests",
+                    "ANOVA assumptions and interpretation of results"
+                ]
+            },
+            {
+                "module_number": 8,
+                "module_title": "Regression Analysis",
+                "module_topics": [
+                    "Simple linear regression for examining the relationship between two variables",
+                    "Multiple linear regression for modeling and prediction",
+                    "Assessing model fit, significance, and interpreting regression coefficients",
+                    "Handling assumptions and limitations of regression analysis"
+                ]
+            },
+            {
+                "module_number": 9,
+                "module_title": "Nonparametric Methods",
+                "module_topics": [
+                    "Nonparametric tests for situations with less stringent assumptions",
+                    "Wilcoxon rank-sum test, Kruskal-Wallis test, and Spearman's rank correlation",
+                    "Application of nonparametric methods in real-world scenarios"
+                ]
+            },
+            {
+                "module_number": 10,
+                "module_title": "Experimental Design and Statistical Inference",
+                "module_topics": [
+                    "Principles of experimental design and randomized controlled trials",
+                    "Analysis of variance for experimental data",
+                    "Statistical inference and causal inference",
+                    "Ethical considerations in data collection and analysis"
+                ]
+            }
+        ],
+        "course_objectives": "Throughout the course, you will engage in prac8cal exercises and sta8s8cal solware (e.g., R or Python with libraries like NumPy and Pandas) to apply sta8s8cal concepts to real-world datasets. By the end of this course, you will have a solid understanding of sta8s8cal principles, enabling you to analyse and interpret data effec8vely. You will be equipped with the skills to make data-driven decisions, design experiments, and communicate sta8s8cal findings."
+    },
+    {
+        "course_title": "Deep Learning Fundamentals",
+        "course_img": "../src/assets/courses-images/Deep_Learning_1.png",
+        "course_summary": "The Deep Learning Fundamentals course is designed to provide a comprehensive understanding of deep learning techniques and their applications. In this course, you will learn the foundational principles, architectures, and algorithms used in deep learning, empowering you to build and deploy neural networks for a variety of tasks. Whether you are a beginner in the field of artificial intelligence or an experienced practitioner looking to delve into deep learning, this course will equip you with the knowledge and skills needed to excel in the rapidly evolving world of deep learning.",
+        "course_short_description": "Delve into the realm of deep learning, a cutting-edge field of AI. Discover neural networks, convolutional and recurrent networks, and train models to tackle complex tasks like image recognition and natural language processing.",
+        "course_content": [
+            {
+                "module_number": 1,
+                "module_title": "Introduction to Deep Learning",
+                "module_topics": [
+                    "Understanding the basics of artificial neural networks and deep learning",
+                    "Differentiating between shallow and deep networks",
+                    "Exploring the history, motivations, and current trends in deep learning"
+                ]
+            },
+            {
+                "module_number": 2,
+                "module_title": "Neural Network Architecture",
+                "module_topics": [
+                    "Building blocks of neural networks: neurons, activation functions, and layers",
+                    "Feedforward neural networks and backpropagation algorithm",
+                    "Deep architectures: convolutional neural networks (CNNs), recurrent neural networks (RNNs), and generative adversarial networks (GANs)"
+                ]
+            },
+            {
+                "module_number": 3,
+                "module_title": "Training Deep Neural Networks",
+                "module_topics": [
+                    "Data pre-processing and normalization techniques",
+                    "Optimizers and gradient descent variants",
+                    "Regularization methods: dropout, L1 and L2 regularization",
+                    "Handling overfitting and underfitting"
+                ]
+            },
+            {
+                "module_number": 4,
+                "module_title": "Convolutional Neural Networks (CNNs)",
+                "module_topics": [
+                    "Understanding CNN architecture and its applications in computer vision",
+                    "Convolutional layers, pooling layers, and activation functions",
+                    "Transfer learning and pre-trained CNN models",
+                    "Object detection, image classification, and image segmentation with CNNs"
+                ]
+            },
+            {
+                "module_number": 5,
+                "module_title": "Recurrent Neural Networks (RNNs)",
+                "module_topics": [
+                    "Sequential data and its challenges in deep learning",
+                    "RNN architecture and working principles",
+                    "Long Short-Term Memory (LSTM) and Gated Recurrent Units (GRU)",
+                    "Applications of RNNs: natural language processing, speech recognition, and time series prediction"
+                ]
+            },
+            {
+                "module_number": 6,
+                "module_title": "Generative Adversarial Networks (GANs)",
+                "module_topics": [
+                    "Understanding the concept of GANs and its architecture",
+                    "Generator and discriminator networks in GANs",
+                    "Training GANs and overcoming challenges",
+                    "Generating realistic images, text, and music with GANs"
+                ]
+            },
+            {
+                "module_number": 7,
+                "module_title": "Deep Reinforcement Learning",
+                "module_topics": [
+                    "Reinforcement learning basics and its connection to deep learning",
+                    "Q-Learning, Deep Q-Networks (DQN), and policy gradients",
+                    "Applications of deep reinforcement learning in game playing and robotics"
+                ]
+            },
+            {
+                "module_number": 8,
+                "module_title": "Natural Language Processing (NLP) with Deep Learning",
+                "module_topics": [
+                    "Word embeddings and distributed representations",
+                    "Recurrent Neural Networks (RNNs) for language modeling and text generation",
+                    "Sequence-to-Sequence models and attention mechanisms",
+                    "Sentiment analysis and machine translation using deep learning"
+                ]
+            },
+            {
+                "module_number": 9,
+                "module_title": "Deployment and Model Optimization",
+                "module_topics": [
+                    "Converting deep learning models for deployment on different platforms",
+                    "Model optimization techniques for inference speed and memory efficiency",
+                    "Deployment considerations and best practices for real-world applications",
+                    "Ethical considerations and fairness in deep learning algorithms"
+                ]
+            }
+        ],
+        "course_objectives": "Throughout the course, you will have hands-on experience with deep learning frameworks such as TensorFlow or PyTorch, and work on projects that cover various applications of deep learning in computer vision, natural language processing, and reinforcement learning. By the end of this course, you will have a solid understanding of deep learning"
+    },
+    {
+        "course_title": "Big Data, Hadoop, and Spark Fundamentals",
+        "course_img": "../src/assets/courses-images/Big Data_Hadoop_and_Spark_2.jpeg",
+        "course_summary": "The Big Data, Hadoop, and Spark Fundamentals course provides a comprehensive introduction to the world of big data processing and analytics. In this course, you will learn the foundational concepts, technologies, and tools used in handling massive volumes of data efficiently and extracting valuable insights. From understanding the challenges of big data to mastering the Apache Hadoop and Apache Spark ecosystems, this course equips you with the knowledge and skills needed to work with big data and leverage its potential.",
+        "course_short_description": "Harness the potential of big data technologies. Learn to process large datasets using Hadoop and utilize the power of Apache Spark for distributed data processing and analytics.",
+        "course_content": [
+            {
+                "module_number": 1,
+                "module_title": "Introduction to Big Data",
+                "module_topics": [
+                    "Understanding the characteristics and challenges of big data",
+                    "Exploring the three V's of big data: volume, velocity, and variety",
+                    "Identifying the applications and impact of big data across industries"
+                ]
+            },
+            {
+                "module_number": 2,
+                "module_title": "Hadoop Fundamentals",
+                "module_topics": [
+                    "Overview of the Hadoop ecosystem and its components (HDFS, YARN, MapReduce)",
+                    "Setting up a Hadoop cluster and managing distributed storage",
+                    "Writing and executing MapReduce jobs for data processing"
+                ]
+            },
+            {
+                "module_number": 3,
+                "module_title": "Data Ingestion and Storage",
+                "module_topics": [
+                    "Techniques for data ingestion from various sources (batch and real-time)",
+                    "Distributed file systems and data storage formats (e.g., Avro, Parquet)",
+                    "Data partitioning and replication for fault tolerance and scalability"
+                ]
+            },
+            {
+                "module_number": 4,
+                "module_title": "Hadoop Data Processing",
+                "module_topics": [
+                    "Understanding the MapReduce programming model for distributed computing",
+                    "Writing MapReduce programs in Java or using higher-level frameworks (e.g., Apache Pig, Apache Hive)",
+                    "Performing data transformations, aggregations, and joins"
+                ]
+            },
+            {
+                "module_number": 5,
+                "module_title": "Hadoop Ecosystem Tools",
+                "module_topics": [
+                    "Exploring additional tools in the Hadoop ecosystem (e.g., Apache Sqoop, Apache Flume, Apache Kafka)",
+                    "Extracting data from relational databases and streaming sources",
+                    "Data integration and data pipeline management"
+                ]
+            },
+            {
+                "module_number": 6,
+                "module_title": "Introduction to Apache Spark",
+                "module_topics": [
+                    "Understanding the advantages of Apache Spark over traditional MapReduce",
+                    "Working with resilient distributed datasets (RDDs)",
+                    "Spark's core components: Spark SQL, Spark Streaming, Spark MLlib, and GraphX"
+                ]
+            },
+            {
+                "module_number": 7,
+                "module_title": "Spark Data Processing",
+                "module_topics": [
+                    "Transforming and analyzing large-scale data using Spark's Data Frame and Dataset APIs",
+                    "Applying SQL queries, aggregations, and joins with Spark SQL",
+                    "Stream processing and real-time analytics with Spark Streaming"
+                ]
+            },
+            {
+                "module_number": 8,
+                "module_title": "Machine Learning with Spark",
+                "module_topics": [
+                    "Introduction to Spark MLlib for scalable machine learning",
+                    "Building and evaluating machine learning models using Spark",
+                    "Handling large-scale datasets and performing feature engineering"
+                ]
+            },
+            {
+                "module_number": 9,
+                "module_title": "Spark Graph Processing",
+                "module_topics": [
+                    "Processing and analyzing graph data with GraphX",
+                    "Graph algorithms and graph analytics with Spark",
+                    "Social network analysis and recommendation systems"
+                ]
+            },
+            {
+                "module_number": 10,
+                "module_title": "Data Visualization and Reporting",
+                "module_topics": [
+                    "Visualizing and communicating insights from big data",
+                    "Exploring data visualization tools (e.g., Apache Zeppelin, Tableau)",
+                    "Creating interactive dashboards and reports"
+                ]
+            }
+        ],
+        "course_objectives": "By the end of this course, you will have a solid understanding of big data concepts, Hadoop, and Spark frameworks, enabling you to handle and extract valuable insights from large-scale datasets. You will be well-prepared to tackle big data challenges and contribute to data-driven decision-making in organizations dealing with massive data volumes."
+    },
+    {
+        "course_title": "PySpark and Spark ML Fundamentals",
+        "course_img": "../src/assets/courses-images/PySpark_and_Spark_ML_1.png",
+        "course_summary": "The PySpark and Spark ML Fundamentals course provides a comprehensive introduction to PySpark and Spark ML, the Python-based libraries for Apache Spark. In this course, you will learn how to leverage the power of distributed computing and machine learning using PySpark and Spark ML. From data processing and transformation to building and evaluating machine learning models, this course equips you with the knowledge and skills needed to perform large-scale data analysis and develop scalable machine learning solutions using Spark.",
+        "course_short_description": "Master PySpark, the Python API for Apache Spark. Explore data manipulation, feature engineering, and machine learning with Spark MLlib to build scalable and efficient data pipelines.",
+        "course_content": [
+            {
+                "module_number": 1,
+                "module_title": "Introduction to Apache Spark and PySpark",
+                "module_topics": [
+                    "Understanding the advantages of Apache Spark and its architecture",
+                    "Overview of PySpark and its integration with Python",
+                    "Setting up a PySpark environment and working with RDDs (Resilient Distributed Datasets)"
+                ]
+            },
+            {
+                "module_number": 2,
+                "module_title": "Data Manipulation and Transformation with PySpark",
+                "module_topics": [
+                    "Performing data ingestion from various sources (e.g., CSV, JSON, Parquet)",
+                    "Data cleaning, filtering, and transforming operations using PySpark",
+                    "Working with structured and semi-structured data"
+                ]
+            },
+            {
+                "module_number": 3,
+                "module_title": "PySpark SQL and Data Frames",
+                "module_topics": [
+                    "Introduction to PySpark SQL and its role in data analysis",
+                    "Querying and manipulating data using SQL-like syntax with Data Frames",
+                    "Applying aggregations, joins, and filtering operations"
+                ]
+            },
+            {
+                "module_number": 4,
+                "module_title": "PySpark Streaming",
+                "module_topics": [
+                    "Real-time data processing and stream processing with PySpark",
+                    "Working with streaming data sources (e.g., Kafka, Flume)",
+                    "Windowing operations and stateful stream processing"
+                ]
+            },
+            {
+                "module_number": 5,
+                "module_title": "Introduction to Spark MLlib",
+                "module_topics": [
+                    "Understanding the machine learning capabilities of Spark MLlib",
+                    "Overview of the MLlib pipeline API and its components",
+                    "Feature extraction, transformation, and selection techniques"
+                ]
+            },
+            {
+                "module_number": 6,
+                "module_title": "Supervised Learning with Spark ML",
+                "module_topics": [
+                    "Classification algorithms: Logistic Regression, Decision Trees, Random Forests, Gradient-Boosted Trees",
+                    "Regression algorithms: Linear Regression, Decision Trees Regression",
+                    "Model evaluation and hyperparameter tuning with cross-validation"
+                ]
+            },
+            {
+                "module_number": 7,
+                "module_title": "Unsupervised Learning with Spark ML",
+                "module_topics": [
+                    "Clustering algorithms: K-means, Gaussian Mixture Models",
+                    "Dimensionality reduction techniques: Principal Component Analysis (PCA)",
+                    "Anomaly detection and outlier detection"
+                ]
+            },
+            {
+                "module_number": 8,
+                "module_title": "Collaborative Filtering and Recommendation Systems",
+                "module_topics": [
+                    "Building recommendation systems using Spark MLlib",
+                    "Matrix factorization techniques: Alternating Least Squares (ALS)",
+                    "Handling large-scale datasets for collaborative filtering"
+                ]
+            },
+            {
+                "module_number": 9,
+                "module_title": "Spark ML Pipelines and Model Deployment",
+                "module_topics": [
+                    "Understanding Spark ML Pipelines for end-to-end machine learning workflows",
+                    "Saving and loading ML models for production deployment",
+                    "Model serialization and deployment considerations"
+                ]
+            },
+            {
+                "module_number": 10,
+                "module_title": "Advanced Topics and Integration",
+                "module_topics": [
+                    "Feature engineering techniques for advanced data pre-processing",
+                    "Integration with external libraries and tools (e.g., TensorFlow, XGBoost)",
+                    "Working with big data frameworks (e.g., Hadoop, Hive) in conjunction with PySpark"
+                ]
+            }
+        ],
+        "course_objectives": "By the end of this course, you will have a solid understanding of PySpark and Spark ML, enabling you to leverage the power of distributed computing and develop scalable machine learning solutions. You will be well-prepared to tackle big data challenges and build data-driven applications using PySpark and Spark ML."
+    },
+    {
+        "course_title": "C and C++ Programming Fundamentals",
+        "course_img": "../src/assets/courses-images/C_fundametals.jpg",
+        "course_summary": "The C and C++ Programming Fundamentals course is designed to provide a comprehensive understanding of the C and C++ programming languages. In this course, you will learn the foundational principles, syntax, and best practices of C and C++ programming, equipping you with the skills needed to develop efficient and reliable software applications. Whether you are a beginner in programming or have experience in other languages, this course will lay a solid foundation for your journey as a C and C++ developer.",
+        "course_short_description": "Learn the foundational languages of C and C++. Gain expertise in programming concepts, memory management, and build essential skills for system-level development and performance-critical applications.",
+        "course_content": [
+            {
+                "module_number": 1,
+                "module_title": "Introduction to Programming",
+                "module_topics": [
+                    "Understanding the basics of programming concepts and algorithms",
+                    "Overview of the software development life cycle",
+                    "Setting up a development environment for C and C++ programming"
+                ]
+            },
+            {
+                "module_number": 2,
+                "module_title": "Introduction to C Programming",
+                "module_topics": [
+                    "Overview of the C programming language and its features",
+                    "Variables, data types, and basic input/output operations",
+                    "Control flow structures: loops, conditionals, and branching",
+                    "Functions and modular programming in C"
+                ]
+            },
+            {
+                "module_number": 3,
+                "module_title": "C Language Fundamentals",
+                "module_topics": [
+                    "Arrays, strings, and pointers in C",
+                    "Memory management and dynamic memory allocation",
+                    "File handling and input/output operations in C",
+                    "Error handling and debugging techniques"
+                ]
+            },
+            {
+                "module_number": 4,
+                "module_title": "Object-Oriented Programming with C++",
+                "module_topics": [
+                    "Introduction to object-oriented programming (OOP) concepts",
+                    "Classes, objects, and encapsulation in C++",
+                    "Inheritance, polymorphism, and abstraction in C++",
+                    "Operator overloading and function templates"
+                ]
+            },
+            {
+                "module_number": 5,
+                "module_title": "C++ Language Features",
+                "module_topics": [
+                    "Advanced data structures: vectors, lists, and maps in C++",
+                    "Exception handling and error propagation in C++",
+                    "Standard Template Library (STL) and its components",
+                    "Multithreading and concurrent programming in C++"
+                ]
+            },
+            {
+                "module_number": 6,
+                "module_title": "Memory Management and Optimization",
+                "module_topics": [
+                    "Understanding memory management in C and C++",
+                    "Pointers, references, and memory allocation techniques",
+                    "Memory leaks and memory corruption issues",
+                    "Performance optimization techniques for C and C++ programs"
+                ]
+            },
+            {
+                "module_number": 7,
+                "module_title": "Advanced Topics and Libraries",
+                "module_topics": [
+                    "Advanced I/O operations and file handling in C and C++",
+                    "Networking and socket programming using C and C++",
+                    "Interfacing with hardware and low-level programming",
+                    "Introduction to popular C and C++ libraries (e.g., Boost, Qt)"
+                ]
+            },
+            {
+                "module_number": 8,
+                "module_title": "Debugging and Testing",
+                "module_topics": [
+                    "Debugging techniques and tools for C and C++ programs",
+                    "Unit testing and test-driven development (TDD) in C and C++",
+                    "Code profiling and performance analysis"
+                ]
+            },
+            {
+                "module_number": 9,
+                "module_title": "Best Practices and Coding Standards",
+                "module_topics": [
+                    "Writing clean and maintainable code in C and C++",
+                    "Coding standards and style guidelines",
+                    "Documentation and code commenting practices",
+                    "Code reviews and version control integration"
+                ]
+            }
+        ],
+        "course_objectives": "Throughout the course, you will work on hands-on programming exercises and projects, allowing you to apply the concepts and techniques learned in real-world scenarios. By the end of this course, you will have a solid understanding of C and C++ programming fundamentals, enabling you to develop efficient, reliable, and well-structured software applications. You will be well-equipped to pursue further specialization in areas such as systems programming, embedded systems, game development, and more using the C and C++ languages."
+    },
+    {
+        "course_title": "Java and Advanced Java Programming",
+        "course_img": "../src/assets/courses-images/Java_and_Advanced_Java_2.png",
+        "course_summary": "The Java and Advanced Java Programming course provides a comprehensive introduction to the Java programming language and covers advanced concepts for developing robust and scalable Java applications. Whether you are a beginner or have some programming experience, this course will equip you with the skills and knowledge to become a proficient Java developer.",
+        "course_short_description": "Master Java, the versatile programming language used in a wide range of applications. Explore advanced topics like multithreading, networking, and database connectivity to build robust Java applications.",
+        "course_content": [
+            {
+                "module_number": 1,
+                "module_title": "Introduction to Java",
+                "module_topics": [
+                    "Understanding the Java platform and its advantages",
+                    "Setting up a Java development environment",
+                    "Writing and running your first Java program",
+                    "Introduction to Java syntax, data types, and variables"
+                ]
+            },
+            {
+                "module_number": 2,
+                "module_title": "Object-Oriented Programming with Java",
+                "module_topics": [
+                    "Understanding the principles of object-oriented programming (OOP)",
+                    "Classes, objects, and encapsulation in Java",
+                    "Inheritance, polymorphism, and abstraction in Java",
+                    "Interfaces and abstract classes in Java"
+                ]
+            },
+            {
+                "module_number": 3,
+                "module_title": "Java Language Fundamentals",
+                "module_topics": [
+                    "Control flow structures: loops, conditionals, and branching",
+                    "Exception handling and error propagation in Java",
+                    "Working with arrays, collections, and generics in Java",
+                    "Input/output operations with Java streams"
+                ]
+            },
+            {
+                "module_number": 4,
+                "module_title": "Java Core Libraries",
+                "module_topics": [
+                    "Exploring the Java Standard Library and its key packages",
+                    "Working with dates, times, and formatting in Java",
+                    "File handling and input/output operations in Java",
+                    "Java networking fundamentals: sockets and protocols"
+                ]
+            },
+            {
+                "module_number": 5,
+                "module_title": "Multithreading and Concurrency",
+                "module_topics": [
+                    "Introduction to multithreading and concurrent programming in Java",
+                    "Thread creation, synchronization, and inter-thread communication",
+                    "Java thread pools and executor framework",
+                    "Managing concurrent access to shared resources"
+                ]
+            },
+            {
+                "module_number": 6,
+                "module_title": "Java Database Connectivity (JDBC)",
+                "module_topics": [
+                    "Introduction to database concepts and relational databases",
+                    "Establishing database connections and executing SQL queries with JDBC",
+                    "Working with result sets and performing database updates",
+                    "Handling transactions and managing database resources"
+                ]
+            },
+            {
+                "module_number": 7,
+                "module_title": "Java Servlets and JavaServer Pages (JSP)",
+                "module_topics": [
+                    "Introduction to web development with Java Servlets and JSP",
+                    "Handling HTTP requests and building dynamic web applications",
+                    "Session management and servlet filters",
+                    "JavaServer Pages Standard Tag Library (JSTL) and expression language"
+                ]
+            },
+            {
+                "module_number": 8,
+                "module_title": "Java Enterprise Edition (Java EE) Overview",
+                "module_topics": [
+                    "Overview of Java EE architecture and components",
+                    "Introduction to Enterprise JavaBeans (EJB) and Java Persistence API (JPA)",
+                    "JavaServer Faces (JSF) for building web interfaces",
+                    "Java Message Service (JMS) and messaging concepts"
+                ]
+            },
+            {
+                "module_number": 9,
+                "module_title": "Java Frameworks and Libraries",
+                "module_topics": [
+                    "Introduction to popular Java frameworks (e.g., Spring, Hibernate)",
+                    "Dependency management with Apache Maven",
+                    "Introduction to RESTful web services with Java",
+                    "Introduction to testing frameworks (e.g., JUnit, Mockito)"
+                ]
+            },
+            {
+                "module_number": 10,
+                "module_title": "Advanced Java Topics",
+                "module_topics": [
+                    "Java reflection and dynamic class loading",
+                    "Security considerations in Java applications",
+                    "Introduction to JavaFX for building desktop applications",
+                    "Java performance optimization and memory management techniques"
+                ]
+            }
+        ],
+        "course_objectives": "By the end of this course, you will have a solid understanding of Java programming and advanced Java topics, enabling you to develop robust, scalable, and efficient Java applications. You will be well-prepared to pursue further specialization in areas such as web development, enterprise application development, mobile app development"
+    },
+    {
+        "course_title": "Mobile App Development with FluSer",
+        "course_img": "../src/assets/courses-images/Mobile_App_Development_Flutter_1.jpeg",
+        "course_summary": "The Mobile App Development with Flutter course provides a comprehensive introduction to building cross-platform mobile applications using the Flutter framework. In this course, you will learn the fundamental concepts of Flutter, develop a strong foundation in the Dart programming language, and build interactive and visually appealing mobile apps for both iOS and Android platforms. From UI design and state management to integrating APIs and deploying apps, this course equips you with the skills and knowledge to create high-quality mobile applications with Flutter.",
+        "course_short_description": "Build cross-platform mobile apps using Flutter framework. Learn Dart programming language, UI development, state management, and integration with backend services to create stunning mobile applications.",
+        "course_content": [
+            {
+                "module_number": 1,
+                "module_title": "Introduction to Mobile App Development and Flutter",
+                "module_topics": [
+                    "Overview of mobile app development and Flutter framework",
+                    "Setting up a Flutter development environment",
+                    "Introduction to Dart programming language and its syntax",
+                    "Building and running your first Flutter app"
+                ]
+            },
+            {
+                "module_number": 2,
+                "module_title": "Flutter Widgets and UI Design",
+                "module_topics": [
+                    "Understanding Flutter widgets and widget hierarchy",
+                    "Building responsive and adaptive UI layouts with Flutter",
+                    "Working with various widgets: containers, buttons, text fields, etc.",
+                    "Handling user input and gestures"
+                ]
+            },
+            {
+                "module_number": 3,
+                "module_title": "State Management in Flutter",
+                "module_topics": [
+                    "Understanding the concept of state and managing state in Flutter",
+                    "Exploring different state management approaches (e.g., setState, Provider, BLoC)",
+                    "Implementing reactive UI updates with Flutter's reactive framework"
+                ]
+            },
+            {
+                "module_number": 4,
+                "module_title": "Navigation and Routing in Flutter",
+                "module_topics": [
+                    "Navigating between screens and managing app routes in Flutter",
+                    "Implementing navigation drawers, bottom navigation bars, and tabs",
+                    "Passing data between screens using route parameters"
+                ]
+            },
+            {
+                "module_number": 5,
+                "module_title": "Flutter Widgets for App Logic and Functionality",
+                "module_topics": [
+                    "Using Flutter widgets for form validation and user input handling",
+                    "Working with lists and grids to display dynamic content",
+                    "Animation and motion in Flutter apps",
+                    "Integrating device features (e.g., camera, GPS) using Flutter plugins"
+                ]
+            },
+            {
+                "module_number": 6,
+                "module_title": "Networking and API Integration",
+                "module_topics": [
+                    "Making HTTP requests and handling responses in Flutter",
+                    "Consuming RESTful APIs and working with JSON data",
+                    "Authentication and authorization in Flutter apps",
+                    "Caching and offline data storage"
+                ]
+            },
+            {
+                "module_number": 7,
+                "module_title": "Firebase Integration for Flutter Apps",
+                "module_topics": [
+                    "Introduction to Firebase backend services for mobile apps",
+                    "Setting up Firebase project and integrating Firebase SDK with Flutter",
+                    "User authentication with Firebase Authentication",
+                    "Real-time database and cloud storage with Firebase Firestore"
+                ]
+            },
+            {
+                "module_number": 8,
+                "module_title": "Stateful Data Management in Flutter",
+                "module_topics": [
+                    "Implementing advanced state management techniques in Flutter",
+                    "Using Provider package for efficient and scalable state management",
+                    "Redux pattern and managing app state with Redux in Flutter"
+                ]
+            },
+            {
+                "module_number": 9,
+                "module_title": "Testing and Debugging Flutter Apps",
+                "module_topics": [
+                    "Testing Flutter widgets and app logic using Flutter testing framework",
+                    "Debugging techniques and tools for Flutter apps",
+                    "Performance profiling and optimization of Flutter apps",
+                    "Error handling and logging best practices"
+                ]
+            },
+            {
+                "module_number": 10,
+                "module_title": "Deployment and Publishing",
+                "module_topics": [
+                    "Generating release builds for iOS and Android platforms",
+                    "App signing and publishing to app stores (Google Play Store, Apple App Store)",
+                    "Continuous integration and delivery (CI/CD) for Flutter apps",
+                    "App store optimization (ASO) and marketing strategies"
+                ]
+            }
+        ],
+        "course_objectives": "Build cross-platform mobile apps using Flutter framework. Learn Dart programming language, UI development, state management, and integration with backend services to create stunning mobile applications."
+    },
+    {
+        "course_title": "Data Structures and Algorithms",
+        "course_img": "../src/assets/courses-images/Data_Science_2.jpeg",
+        "course_summary": "The \"Data Structures and Algorithms\" course provides a comprehensive introduction to fundamental data structures and algorithms used in computer science and programming. Gain a strong grasp of various data structures and algorithms, solve coding problems efficiently, implement common data structures, and optimize algorithms for better performance.",
+        "course_short_description": "Develop a strong grasp of data structures and algorithms. Solve coding problems efficiently, implement common data structures, and optimize algorithms for better performance.",
+        "course_content": [
+            {
+                "module_number": 1,
+                "module_title": "Introduction to Data Structures and Algorithms",
+                "module_topics": [
+                    "Overview of data structures and algorithms",
+                    "Importance and applications in software development"
+                ]
+            },
+            {
+                "module_number": 2,
+                "module_title": "Arrays and Strings",
+                "module_topics": [
+                    "Array manipulation and operations",
+                    "String manipulation and algorithms"
+                ]
+            },
+            {
+                "module_number": 3,
+                "module_title": "Linked Lists",
+                "module_topics": [
+                    "Singly linked lists",
+                    "Doubly linked lists",
+                    "Circular linked lists",
+                    "Linked list operations and algorithms"
+                ]
+            },
+            {
+                "module_number": 4,
+                "module_title": "Stacks and Queues",
+                "module_topics": [
+                    "Stack implementation and operations",
+                    "Queue implementation and operations",
+                    "Applications of stacks and queues"
+                ]
+            },
+            {
+                "module_number": 5,
+                "module_title": "Trees and Binary Trees",
+                "module_topics": [
+                    "Binary tree representation and traversal",
+                    "Binary search tree and its operations",
+                    "Tree traversal algorithms (inorder, preorder, postorder)"
+                ]
+            },
+            {
+                "module_number": 6,
+                "module_title": "Heaps and Priority Queues",
+                "module_topics": [
+                    "Min and max heaps",
+                    "Heap operations and algorithms",
+                    "Priority queues and their applications"
+                ]
+            },
+            {
+                "module_number": 7,
+                "module_title": "Hash Tables",
+                "module_topics": [
+                    "Hashing techniques and collision resolution",
+                    "Hash table implementation and operations",
+                    "Hash table applications and analysis"
+                ]
+            },
+            {
+                "module_number": 8,
+                "module_title": "Graphs and Graph Algorithms",
+                "module_topics": [
+                    "Graph representation (adjacency matrix, adjacency list)",
+                    "Graph traversal algorithms (BFS, DFS)",
+                    "Shortest path algorithms (Dijkstra's, Bellman-Ford)"
+                ]
+            },
+            {
+                "module_number": 9,
+                "module_title": "Sorting Algorithms",
+                "module_topics": [
+                    "Comparison-based sorting algorithms (selection sort, insertion sort, bubble sort)",
+                    "Efficient sorting algorithms (merge sort, quicksort, heapsort)",
+                    "Time and space complexity analysis of sorting algorithms"
+                ]
+            },
+            {
+                "module_number": 10,
+                "module_title": "Searching Algorithms",
+                "module_topics": [
+                    "Linear search",
+                    "Binary search",
+                    "Hash-based searching"
+                ]
+            },
+            {
+                "module_number": 11,
+                "module_title": "Algorithm Design Techniques",
+                "module_topics": [
+                    "Divide and conquer",
+                    "Greedy algorithms",
+                    "Dynamic programming",
+                    "Backtracking"
+                ]
+            },
+            {
+                "module_number": 12,
+                "module_title": "Algorithm Analysis and Complexity",
+                "module_topics": [
+                    "Big O notation and time complexity analysis",
+                    "Space complexity analysis",
+                    "Best, worst, and average case analysis"
+                ]
+            },
+            {
+                "module_number": 13,
+                "module_title": "Advanced Topics (Optional)",
+                "module_topics": [
+                    "Advanced data structures (AVL trees, B-trees, etc.)",
+                    "Advanced algorithms (graph algorithms, string matching, etc.)"
+                ]
+            }
+        ],
+        "course_objectives": "By the end of this course, students will have a solid understanding of data structures and algorithms, enabling them to write efficient and optimized code, solve complex programming challenges, and excel in technical interviews."
+    }
+]
